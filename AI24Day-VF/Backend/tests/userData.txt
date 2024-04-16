@@ -1,0 +1,28 @@
+{
+	"Nom": "Lynda",
+	"Prenom": "SAYOUD",
+	 "Username": "Lyn_s1y",
+	"password": "HeyHey",
+        
+	"mail":"lhfuhe@gmail.com",
+	"PhoneNumber": "0898493984",
+},
+{
+	"Nom": "Raouf",
+	"Prenom": "Abdallah",
+	 "Username": "raoufslv",
+	"password": "heh",
+        
+	"mail":"luhe@gmail.com",
+	"PhoneNumber": "779802987",
+},
+{
+	"Nom": "FDL",
+	"Prenom": "Meriem",
+	 "Username": "Mimi",
+	"password": "HH",
+        
+	"mail":"ooi@gmail.com",
+	"PhoneNumber": "999999",
+}
+
