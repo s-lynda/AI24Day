@@ -1,0 +1,1 @@
+https://www.figma.com/file/Xc2fIbcBELOMTv7hoTE5Fe/AI24_DAY?type=design&node-id=0-1&mode=design&t=YAhvRg582E1yTRb9-0
