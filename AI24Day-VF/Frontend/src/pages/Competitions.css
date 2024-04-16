@@ -1,0 +1,560 @@
+.competitions .sidebar {
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+  width: 12.7rem;
+  height: 63.8rem;
+}
+.competitions .rectangle-69 {
+  border-radius: 0.4rem;
+  border: 0.1rem dashed #000000;
+  position: relative;
+  width: 11.5rem;
+  height: 12.1rem;
+}
+.competitions .drop-down-month {
+  transform: rotate(-45deg);
+  position: absolute;
+  left: 50%;
+  bottom: 0rem;
+  translate: -50% 0;
+  width: 16.9rem;
+  height: 16.9rem;
+}
+.competitions .add-icon {
+  position: absolute;
+  left: 15.2rem;
+  top: 50%;
+  translate: 0 -50%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 16.9rem;
+  height: 16.9rem;
+}
+.code-quest-arena-sub3 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.3rem;
+  line-height: 1.333;
+  color: #39BAAA;
+}
+.code-quest-arena {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.3rem;
+  line-height: 1.333;
+  background: linear-gradient(#ABDCD8, #ABDCD8), linear-gradient(#39BAAA, #39BAAA);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.competitions .code-quest-arena {
+  margin: 1.4rem 4.5rem 1.8rem 0;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: var(--color-2, #39BAAA);
+}
+.code-quest-arena-sub4 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.3rem;
+  line-height: 1.333;
+  background: linear-gradient(#ABDCD8, #ABDCD8), linear-gradient(#39BAAA, #39BAAA);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.competitions .competitions-1 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 4rem;
+  color: #303030;
+}
+.competitions .container-19 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.competitions .united {
+  margin: 0.1rem 0.9rem 0.1rem 0;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.competitions .eng-us {
+  overflow-wrap: break-word;
+  font-family: var(--text-text-semi-bold-1-font-family, 'Poppins');
+  font-weight: var(--text-text-semi-bold-1-font-weight, 600);
+  font-size: var(--text-text-semi-bold-1-font-size, 1.1rem);
+  color: var(--color-black, #374557);
+}
+.competitions .text {
+  margin-right: 1.4rem;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.competitions .vector-25 {
+  width: 0.6rem;
+  height: 0.4rem;
+}
+.competitions .chevron-down {
+  margin: 0.7rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 0.6rem;
+  height: 0.4rem;
+  box-sizing: border-box;
+}
+.competitions .languange {
+  margin: 1.3rem 3.1rem 0.8rem 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.competitions .container-11 {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.competitions .container-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1.5rem;
+  height: 1.5rem;
+  box-sizing: border-box;
+}
+.competitions .notifications {
+  border-radius: 0.5rem;
+  background: #ABDCD8;
+  position: relative;
+  margin: 0.6rem 1.4rem 0.2rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.8rem;
+  width: 3rem;
+  height: 3rem;
+  box-sizing: border-box;
+}
+.competitions .rectangle-1393 {
+  border-radius: 1rem;
+  background: url('assets/images/Rectangle1393.jpeg') 50% / cover no-repeat;
+  margin-right: 1.3rem;
+  width: 3.8rem;
+  height: 3.8rem;
+}
+.competitions .anis {
+  margin: 0 0.8rem 0.2rem 0;
+  display: inline-block;
+  width: 6.1rem;
+  overflow-wrap: break-word;
+  font-family: var(--base-medium-font-family, 'Poppins');
+  font-weight: var(--base-medium-font-weight, 500);
+  font-size: var(--base-medium-font-size, 1rem);
+  line-height: var(--base-medium-line-height, 1.5);
+  color: var(--greys-blue-grey-900, #151D48);
+}
+.competitions .shape {
+  width: 0.5rem;
+  height: 0.3rem;
+}
+.competitions .group-21861 {
+  margin-top: 1.4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 0.5rem;
+  height: 0.3rem;
+  box-sizing: border-box;
+}
+.competitions .container-13 {
+  margin-bottom: 0.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 7.4rem;
+  box-sizing: border-box;
+}
+.competitions .admin {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--sm-regular-font-family, 'Poppins');
+  font-weight: var(--sm-regular-font-weight, 400);
+  font-size: var(--sm-regular-font-size, 0.9rem);
+  line-height: var(--sm-regular-line-height, 1.429);
+  color: var(--greys-blue-grey-700, #737791);
+}
+.competitions .group-21862 {
+  margin: 0.4rem 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.competitions .group-1000002734 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.competitions .container-16 {
+  margin: 0.2rem 0 0.8rem 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.competitions .container-8 {
+  position: relative;
+  margin: 0 3.5rem 0.6rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 90.5rem;
+  box-sizing: border-box;
+}
+.competitions .ajouter-une-comptition {
+  position: relative;
+  margin: 0 46.8rem 3.8rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: rgba(0, 0, 0, 0.8);
+}
+.competitions .vector-9 {
+  margin-right: 0.7rem;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.competitions .activities {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 1rem;
+  color: #000000;
+}
+.competitions .group-31 {
+  margin: 0 0rem 2.7rem 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.competitions .vector-3 {
+  width: 1.1rem;
+  height: 1.1rem;
+}
+.competitions .gridiconsstats-down {
+  margin: 0.2rem 1rem 0.2rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1.1rem;
+  height: 1.1rem;
+  box-sizing: border-box;
+}
+.competitions .statistics {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 1rem;
+  color: #000000;
+}
+.competitions .container-15 {
+  margin-left: 0rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.competitions .container {
+  margin: 0.7rem 6.8rem 1.5rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.competitions .rectangle-419 {
+  border-radius: 0.1rem;
+  background: rgba(255, 255, 255, 0.8);
+  margin-right: 0.9rem;
+  width: 0.1rem;
+  height: 4.9rem;
+}
+.competitions .titre-de-la-competition {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.8);
+}
+.competitions .search-bar {
+  margin: 1.5rem 0 1.2rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.competitions .container-1 {
+  background: #39BAAA;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 1.3rem 0 1.7rem 2.4rem;
+  width: 69.3rem;
+  box-sizing: border-box;
+}
+.competitions .container-5 {
+  position: relative;
+  margin: 0 8.6rem 1.5rem 2.6rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.competitions .carbonsettings-check {
+  margin: 0.1rem 0.8rem 0 0;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.competitions .rglages {
+  margin-bottom: 0.1rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 1rem;
+  color: var(--color-2, #39BAAA);
+}
+.competitions .container-21 {
+  margin-bottom: 3.3rem;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.competitions .description {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: rgba(0, 0, 0, 0.45);
+}
+.competitions .container-10 {
+  border-radius: 0.6rem;
+  background: rgba(196, 196, 196, 0.15);
+  position: relative;
+  margin-top: 0.1rem;
+  padding: 1.3rem 2rem 1.6rem 2rem;
+  width: 51.8rem;
+  box-sizing: border-box;
+}
+.competitions .container-9 {
+  position: relative;
+  margin: 0 2.4rem 0.8rem 2.4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 81.7rem;
+  box-sizing: border-box;
+}
+.competitions .group {
+  margin: 0.3rem 1rem 0.1rem 0;
+  width: 1.3rem;
+  height: 1.3rem;
+}
+.competitions .ajouter-le-lien-ici-du-site-web {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: rgba(0, 0, 0, 0.35);
+}
+.competitions .container-17 {
+  border-radius: 0.6rem;
+  background: rgba(196, 196, 196, 0.15);
+  position: relative;
+  margin: 0 0 0.6rem 22.3rem;
+  display: flex;
+  flex-direction: row;
+  padding: 1.3rem 0 1.5rem 1.2rem;
+  width: 51.8rem;
+  box-sizing: border-box;
+}
+.competitions .organisateur {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: rgba(0, 0, 0, 0.35);
+}
+.competitions .container-7 {
+  border-radius: 0.6rem;
+  background: rgba(196, 196, 196, 0.15);
+  position: relative;
+  margin: 0 0 0.8rem 22.3rem;
+  padding: 1.4rem 3.3rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.competitions .ajouter-une-image-ici {
+  position: relative;
+  margin: 0 3.9rem 3.2rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 1rem;
+  color: #303030;
+}
+.competitions .date-de-dbut {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: rgba(0, 0, 0, 0.35);
+}
+.competitions .container-22 {
+  border-radius: 0.6rem;
+  background: rgba(196, 196, 196, 0.15);
+  position: relative;
+  margin: 0.2rem 1.7rem 0 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1.4rem 10.3rem 1.4rem 0;
+  width: 25rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.competitions .date-de-fin {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: rgba(0, 0, 0, 0.35);
+}
+.competitions .container-14 {
+  border-radius: 0.6rem;
+  background: rgba(196, 196, 196, 0.15);
+  position: relative;
+  margin-top: 0.2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1.4rem 10.5rem 1.4rem 0;
+  width: 25.1rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.competitions .container-3 {
+  position: relative;
+  margin: 0 0 0.6rem 7.9rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.competitions .localisation {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: rgba(0, 0, 0, 0.35);
+}
+.competitions .container-4 {
+  border-radius: 0.6rem;
+  background: rgba(196, 196, 196, 0.15);
+  position: relative;
+  margin: 0 0 0.6rem 22.5rem;
+  padding: 1.2rem 3.3rem 1.7rem 3.3rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.competitions .critres-demands {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: rgba(0, 0, 0, 0.35);
+}
+.competitions .container-20 {
+  border-radius: 0.6rem;
+  background: rgba(196, 196, 196, 0.15);
+  position: relative;
+  margin: 0 0 4.1rem 22.3rem;
+  padding: 1.5rem 3.4rem 1.3rem 3.4rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.competitions .system-uiconsexit-right {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.competitions .group-33 {
+  margin: 0 0.1rem 0rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1.5rem;
+  height: 1.5rem;
+  box-sizing: border-box;
+}
+.competitions .se-dconnecter {
+  margin-top: 0rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 1rem;
+  color: #000000;
+}
+.competitions .container-18 {
+  margin-bottom: 2.9rem;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.competitions .partager {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 1.5rem;
+  color: #000000;
+}
+.competitions .container-12 {
+  border-radius: 0.6rem;
+  background: #39BAAA;
+  position: relative;
+  margin-top: 0.3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1.1rem 0 0.8rem 0.1rem;
+  width: 16.4rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.competitions .container-6 {
+  position: relative;
+  margin: 0 1.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 81.9rem;
+  box-sizing: border-box;
+}
+.competitions {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2.4rem 0.3rem 1.3rem 0.3rem;
+  width: 94.5rem;
+  box-sizing: border-box;
+}

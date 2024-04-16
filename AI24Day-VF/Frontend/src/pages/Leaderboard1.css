@@ -1,0 +1,2076 @@
+.leaderboard-1 .rectangle-257 {
+  filter: blur(0.6rem);
+  border-radius: 0.6rem;
+  border: 0.1rem solid #ABDCD8;
+  background: #011728;
+  position: absolute;
+  top: 20.8rem;
+  right: 6.1rem;
+  width: 48.4rem;
+  height: 36.8rem;
+}
+.leaderboard-1 .code-quest-arena {
+  filter: blur(0.6rem);
+  margin: 0.5rem 1.6rem 0.5rem 0;
+  width: 32.4rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.8rem;
+  color: var(--color-2, #39BAAA);
+}
+.code-quest-arena-sub3 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.8rem;
+  line-height: 1.333;
+  background: linear-gradient(#ABDCD8, #ABDCD8), linear-gradient(#39BAAA, #39BAAA);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.code-quest-arena {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.8rem;
+  line-height: 1.333;
+  background: linear-gradient(#ABDCD8, #ABDCD8), linear-gradient(#39BAAA, #39BAAA);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.leaderboard-1 .home {
+  filter: blur(0.6rem);
+  margin: 0.9rem 0 0.8rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .about-us {
+  filter: blur(0.6rem);
+  margin: 0.9rem 0 0.8rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .events {
+  filter: blur(0.6rem);
+  margin: 0.9rem 0 0.8rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .leaderboard-1 {
+  filter: blur(0.6rem);
+  margin: 0.9rem 0 0.8rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .ellipse-8 {
+  filter: blur(0.6rem);
+  border-radius: 2.1rem;
+  background: #39BAAA;
+  position: relative;
+  width: 4.3rem;
+  height: 4.3rem;
+}
+.leaderboard-1 .vector-130 {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 0.8rem;
+  bottom: 0.8rem;
+  width: 2.6rem;
+  height: 2.6rem;
+}
+.leaderboard-1 .container-13 {
+  position: relative;
+  margin: 0 1.4rem 2rem 0.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 112.4rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .rectangle-2 {
+  filter: blur(0.6rem);
+  border-radius: 1.3rem;
+  border: 0.1rem solid #000000;
+  background: #ABDCD8;
+  position: relative;
+  margin-bottom: 3.8rem;
+  width: 113.9rem;
+  height: 0.3rem;
+}
+.leaderboard-1 .rectangle-17 {
+  filter: blur(0.6rem);
+  border-radius: 1.3rem;
+  border: 0.1rem solid #000000;
+  background: #ABDCD8;
+  position: relative;
+  margin: 2rem 2.5rem 1.8rem 0;
+  width: 44.6rem;
+  height: 0.3rem;
+}
+.leaderboard-1 .leaderboard-2 {
+  filter: blur(0.6rem);
+  margin-right: 1.8rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 3.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .rectangle-18 {
+  filter: blur(0.6rem);
+  border-radius: 1.3rem;
+  margin: 2.2rem 0 1.7rem 0;
+  width: 45.4rem;
+  height: 0.3rem;
+}
+.leaderboard-1 .container-19 {
+  margin-bottom: 4.3rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.leaderboard-1 .rectangle-256 {
+  filter: blur(0.6rem);
+  border-radius: 0.6rem;
+  border: 0.1rem solid #ABDCD8;
+  background: #011728;
+  position: relative;
+  margin-right: 14.6rem;
+  width: 48.4rem;
+  height: 36.8rem;
+}
+.leaderboard-1 .my-teams {
+  filter: blur(0.6rem);
+  position: relative;
+  margin: 5.4rem 0 28.8rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .ellipse-7 {
+  filter: blur(0.6rem);
+  border-radius: 7rem;
+  background: #39BAAA;
+  position: absolute;
+  left: 4.8rem;
+  top: 4.3rem;
+  width: 14.1rem;
+  height: 14.1rem;
+}
+.leaderboard-1 .vector-126 {
+  width: 8.4rem;
+  height: 8.4rem;
+}
+.leaderboard-1 .biperson-fill {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 6.1rem;
+  top: 5.7rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 11.3rem;
+  height: 11.3rem;
+}
+.leaderboard-1 .username {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 24.2rem;
+  top: 7.8rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .rank-rn-1 {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 24.2rem;
+  top: 11.7rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .rank-gn-623 {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 24.2rem;
+  top: 16.2rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .points-12345 {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 3.6rem;
+  bottom: 12.8rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .best-participation-ai-24-day {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 3.2rem;
+  bottom: 7.9rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .nparticipation-123 {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 3.1rem;
+  bottom: 3.3rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .mc-2 {
+  filter: blur(0.6rem);
+  position: absolute;
+  top: 16.7rem;
+  right: 7.4rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .container-20 {
+  position: relative;
+  margin: 0 2.2rem 10.6rem 2.2rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.leaderboard-1 .rectangle-243 {
+  filter: blur(0.6rem);
+  border-radius: 0.6rem;
+  border: 0.1rem solid #ABDCD8;
+  background: #001723;
+  position: relative;
+  margin: 0 3.3rem 4.8rem 2.4rem;
+  width: 108.1rem;
+  height: 46.4rem;
+}
+.leaderboard-1 .rectangle-258 {
+  filter: blur(0.6rem);
+  border-radius: 0.6rem;
+  border: 0.1rem solid #ABDCD8;
+  background: #001723;
+  position: relative;
+  margin: 0 3.3rem 0 2.4rem;
+  width: 108.1rem;
+  height: 48.3rem;
+}
+.leaderboard-1 .rectangle-16 {
+  filter: blur(0.6rem);
+  border-radius: 1.3rem;
+  border: 0.1rem solid #000000;
+  background: #ABDCD8;
+  position: absolute;
+  left: 3.5rem;
+  top: 8.2rem;
+  right: 2.6rem;
+  height: 0.3rem;
+}
+.leaderboard-1 .stackframe {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 3.3rem;
+  top: 13.3rem;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.leaderboard-1 .group {
+  width: 2.4rem;
+  height: 2.7rem;
+}
+.leaderboard-1 .fluent-emoji-1-st-place-medal {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 8.3rem;
+  bottom: 79.7rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.3rem 0.4rem 0.2rem 0.4rem;
+  width: 3.1rem;
+  height: 3.1rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .group-4 {
+  width: 2.4rem;
+  height: 4.3rem;
+}
+.leaderboard-1 .fluent-emoji-1-st-place-medal-1 {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 8.3rem;
+  bottom: 26.7rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.4rem 0.4rem 0.3rem 0.4rem;
+  width: 3.1rem;
+  height: 4.9rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .group-8 {
+  width: 2.4rem;
+  height: 2.7rem;
+}
+.leaderboard-1 .fluent-emoji-2-nd-place-medal {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 8.3rem;
+  bottom: 73.4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.3rem 0.4rem 0.2rem 0.4rem;
+  width: 3.1rem;
+  height: 3.1rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .group-12 {
+  width: 2.4rem;
+  height: 4.3rem;
+}
+.leaderboard-1 .fluent-emoji-2-nd-place-medal-1 {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 8.3rem;
+  bottom: 20.4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.4rem 0.4rem 0.3rem 0.4rem;
+  width: 3.1rem;
+  height: 4.9rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .group-16 {
+  width: 2.4rem;
+  height: 2.7rem;
+}
+.leaderboard-1 .fluent-emoji-3-rd-place-medal {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 8.3rem;
+  bottom: 67.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.3rem 0.4rem 0.2rem 0.4rem;
+  width: 3.1rem;
+  height: 3.1rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .group-20 {
+  width: 2.4rem;
+  height: 4.3rem;
+}
+.leaderboard-1 .fluent-emoji-3-rd-place-medal-1 {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 8.3rem;
+  bottom: 14.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.4rem 0.4rem 0.3rem 0.4rem;
+  width: 3.1rem;
+  height: 4.9rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .rectangle-244 {
+  filter: blur(0.6rem);
+  border-radius: 0.6rem 0.6rem 0 0;
+  background: #39BAAA;
+  position: absolute;
+  left: 5.9rem;
+  top: 68.1rem;
+  right: 5.9rem;
+  height: 6.8rem;
+}
+.leaderboard-1 .rectangle-259 {
+  filter: blur(0.6rem);
+  border-radius: 0.6rem 0.6rem 0 0;
+  background: #39BAAA;
+  position: absolute;
+  left: 5.9rem;
+  right: 5.9rem;
+  bottom: 44.3rem;
+  height: 8.6rem;
+}
+.leaderboard-1 .rectangle-245 {
+  filter: blur(0.6rem);
+  background: #ABDCD8;
+  position: absolute;
+  left: 5.9rem;
+  top: 74.9rem;
+  right: 5.9rem;
+  height: 8.6rem;
+}
+.leaderboard-1 .rectangle-260 {
+  filter: blur(0.6rem);
+  background: #ABDCD8;
+  position: absolute;
+  left: 5.9rem;
+  right: 5.9rem;
+  bottom: 35.7rem;
+  height: 10.4rem;
+}
+.leaderboard-1 .leaderboard-global {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 11.1rem;
+  top: 69.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 3.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-global {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 2.5rem;
+  line-height: 1.333;
+}
+.leaderboard-1 .teams {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 21.8rem;
+  bottom: 46.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 3.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .last-updated-2-minutes-ago {
+  filter: blur(0.6rem);
+  position: absolute;
+  top: 70.7rem;
+  right: 7.9rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .last-updated-2-minutes-ago-1 {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 7.9rem;
+  bottom: 47.7rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .rectangle-246 {
+  filter: blur(0.6rem);
+  border-radius: 1.3rem;
+  background: #001723;
+  position: absolute;
+  left: 9.9rem;
+  top: 77.9rem;
+  width: 16.6rem;
+  height: 2.8rem;
+}
+.leaderboard-1 .rectangle-261 {
+  filter: blur(0.6rem);
+  border-radius: 1.3rem;
+  background: #001723;
+  position: absolute;
+  left: 9.9rem;
+  bottom: 38.6rem;
+  width: 16.6rem;
+  height: 4.6rem;
+}
+.leaderboard-1 .rectangle-247 {
+  filter: blur(0.6rem);
+  border-radius: 1.3rem;
+  background: #001723;
+  position: absolute;
+  left: 30.6rem;
+  top: 77.9rem;
+  width: 16.6rem;
+  height: 2.8rem;
+}
+.leaderboard-1 .rectangle-262 {
+  filter: blur(0.6rem);
+  border-radius: 1.3rem;
+  background: #001723;
+  position: absolute;
+  left: 30.6rem;
+  bottom: 38.6rem;
+  width: 16.6rem;
+  height: 4.6rem;
+}
+.leaderboard-1 .rectangle-248 {
+  filter: blur(0.6rem);
+  border-radius: 1.3rem;
+  background: #001723;
+  position: absolute;
+  left: 51.3rem;
+  top: 77.9rem;
+  width: 16.6rem;
+  height: 2.8rem;
+}
+.leaderboard-1 .rectangle-263 {
+  filter: blur(0.6rem);
+  border-radius: 1.3rem;
+  background: #001723;
+  position: absolute;
+  left: 51.3rem;
+  bottom: 38.6rem;
+  width: 16.6rem;
+  height: 4.6rem;
+}
+.leaderboard-1 .rectangle-249 {
+  filter: blur(0.6rem);
+  border-radius: 1.3rem;
+  background: #001723;
+  position: absolute;
+  top: 77.9rem;
+  right: 31.4rem;
+  width: 16.6rem;
+  height: 2.8rem;
+}
+.leaderboard-1 .rectangle-264 {
+  filter: blur(0.6rem);
+  border-radius: 1.3rem;
+  background: #001723;
+  position: absolute;
+  right: 31.4rem;
+  bottom: 38.6rem;
+  width: 16.6rem;
+  height: 4.6rem;
+}
+.leaderboard-1 .rectangle-250 {
+  filter: blur(0.6rem);
+  border-radius: 1.3rem;
+  background: #001723;
+  position: absolute;
+  top: 77.9rem;
+  right: 10.8rem;
+  width: 16.6rem;
+  height: 2.8rem;
+}
+.leaderboard-1 .rectangle-265 {
+  filter: blur(0.6rem);
+  border-radius: 1.3rem;
+  background: #001723;
+  position: absolute;
+  right: 10.8rem;
+  bottom: 38.6rem;
+  width: 16.6rem;
+  height: 4.6rem;
+}
+.leaderboard-1 .field {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 11.7rem;
+  top: 78.4rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+.leaderboard-1 .field-1 {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 11.7rem;
+  bottom: 40rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+.leaderboard-1 .rank {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 8.2rem;
+  bottom: 84.9rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+.leaderboard-1 .rank-1 {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 8.2rem;
+  bottom: 32.8rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+.leaderboard-1 .full-name {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 16.5rem;
+  bottom: 84.9rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+.leaderboard-1 .team-name {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 16.4rem;
+  bottom: 32.8rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+.leaderboard-1 .teams-1 {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 45rem;
+  bottom: 84.9rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+.leaderboard-1 .members {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 44.1rem;
+  bottom: 32.8rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+.leaderboard-1 .country {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 38.5rem;
+  bottom: 84.9rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+.leaderboard-1 .country-1 {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 38.5rem;
+  bottom: 32.8rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+.leaderboard-1 .points {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 29.5rem;
+  bottom: 84.9rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+.leaderboard-1 .points-1 {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 29.5rem;
+  bottom: 32.8rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+.leaderboard-1 .challanges-solved {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 9rem;
+  bottom: 84.9rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+.leaderboard-1 .challanges-solved-1 {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 9rem;
+  bottom: 32.8rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+.leaderboard-1 .solo-team {
+  filter: blur(0.6rem);
+  position: absolute;
+  top: 78.4rem;
+  right: 38.4rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+.leaderboard-1 .solo-team-1 {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 38.4rem;
+  bottom: 40rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+.leaderboard-1 .challenge {
+  filter: blur(0.6rem);
+  position: absolute;
+  top: 78.4rem;
+  right: 19.1rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+.leaderboard-1 .challenge-1 {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 19.1rem;
+  bottom: 40rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+.leaderboard-1 .type {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 52.9rem;
+  top: 78.4rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+.leaderboard-1 .type-1 {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 52.9rem;
+  bottom: 40rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+.leaderboard-1 .stat {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 32.4rem;
+  top: 78.4rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+.leaderboard-1 .stat-1 {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 32.4rem;
+  bottom: 40rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+.leaderboard-1 .rectangle-251 {
+  filter: blur(0.6rem);
+  border-radius: 0.6rem 0.6rem 0 0;
+  background: #ABDCD8;
+  position: absolute;
+  left: 13.8rem;
+  bottom: 57.6rem;
+  width: 0.6rem;
+  height: 26.3rem;
+}
+.leaderboard-1 .rectangle-266 {
+  filter: blur(0.6rem);
+  border-radius: 0.6rem 0.6rem 0 0;
+  background: #ABDCD8;
+  position: absolute;
+  left: 13.8rem;
+  bottom: 4.6rem;
+  width: 0.6rem;
+  height: 28.1rem;
+}
+.leaderboard-1 .rectangle-252 {
+  filter: blur(0.6rem);
+  border-radius: 0.6rem 0.6rem 0 0;
+  background: #ABDCD8;
+  position: absolute;
+  right: 44.8rem;
+  bottom: 57.6rem;
+  width: 0.6rem;
+  height: 26.3rem;
+}
+.leaderboard-1 .rectangle-267 {
+  filter: blur(0.6rem);
+  border-radius: 0.6rem 0.6rem 0 0;
+  background: #ABDCD8;
+  position: absolute;
+  right: 44.8rem;
+  bottom: 4.6rem;
+  width: 0.6rem;
+  height: 28.1rem;
+}
+.leaderboard-1 .rectangle-253 {
+  filter: blur(0.6rem);
+  border-radius: 0.6rem 0.6rem 0 0;
+  background: #ABDCD8;
+  position: absolute;
+  left: 40.3rem;
+  bottom: 57.6rem;
+  width: 0.6rem;
+  height: 26.3rem;
+}
+.leaderboard-1 .rectangle-268 {
+  filter: blur(0.6rem);
+  border-radius: 0.6rem 0.6rem 0 0;
+  background: #ABDCD8;
+  position: absolute;
+  left: 40.3rem;
+  bottom: 4.6rem;
+  width: 0.6rem;
+  height: 28.1rem;
+}
+.leaderboard-1 .rectangle-254 {
+  filter: blur(0.6rem);
+  border-radius: 0.6rem 0.6rem 0 0;
+  background: #ABDCD8;
+  position: absolute;
+  right: 35.6rem;
+  bottom: 57.6rem;
+  width: 0.6rem;
+  height: 26.3rem;
+}
+.leaderboard-1 .rectangle-269 {
+  filter: blur(0.6rem);
+  border-radius: 0.6rem 0.6rem 0 0;
+  background: #ABDCD8;
+  position: absolute;
+  right: 35.6rem;
+  bottom: 4.6rem;
+  width: 0.6rem;
+  height: 28.1rem;
+}
+.leaderboard-1 .rectangle-255 {
+  filter: blur(0.6rem);
+  border-radius: 0.6rem 0.6rem 0 0;
+  background: #ABDCD8;
+  position: absolute;
+  right: 23.5rem;
+  bottom: 57.6rem;
+  width: 0.6rem;
+  height: 26.3rem;
+}
+.leaderboard-1 .rectangle-270 {
+  filter: blur(0.6rem);
+  border-radius: 0.6rem 0.6rem 0 0;
+  background: #ABDCD8;
+  position: absolute;
+  right: 23.5rem;
+  bottom: 4.6rem;
+  width: 0.6rem;
+  height: 28.1rem;
+}
+.leaderboard-1 .container {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 9.3rem;
+  bottom: 61.8rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .container-1 {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 9.3rem;
+  bottom: 9.7rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .hanma {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 17.8rem;
+  bottom: 80.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .tech-geeks {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 16.8rem;
+  bottom: 28.4rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .mc-dz {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 46rem;
+  bottom: 80.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .wassim-ali-omar {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 45.9rem;
+  bottom: 28.4rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .mc {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 45.9rem;
+  bottom: 74.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .hichem-lynda-omar {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 45.6rem;
+  bottom: 22.4rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .mc-rma {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 46.1rem;
+  bottom: 67.8rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .hichem-omar {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 46.3rem;
+  bottom: 15.8rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .cr-7 {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 47.6rem;
+  bottom: 9.4rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .container-2 {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 28.5rem;
+  bottom: 80.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .container-3 {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 28.5rem;
+  bottom: 28.4rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .container-4 {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 16.9rem;
+  bottom: 80.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .container-5 {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 16.9rem;
+  bottom: 28.4rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .container-6 {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 17.7rem;
+  bottom: 74.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .container-7 {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 17.7rem;
+  bottom: 22.4rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .container-8 {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 17.7rem;
+  bottom: 67.9rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .container-9 {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 17.7rem;
+  bottom: 15.8rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .container-10 {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 17.7rem;
+  bottom: 62.3rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .container-11 {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 17.7rem;
+  bottom: 10.2rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .container-12 {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 29.3rem;
+  bottom: 74.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .container-13 {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 29.3rem;
+  bottom: 22.4rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .container-14 {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 29.3rem;
+  bottom: 67.8rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .container-15 {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 29.3rem;
+  bottom: 15.8rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .container-16 {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 29.3rem;
+  bottom: 62.3rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .container-17 {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 29.3rem;
+  bottom: 10.2rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .lynda-say {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 16.8rem;
+  bottom: 74.2rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .mc-1 {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 19rem;
+  bottom: 22.1rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .omar {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 18.3rem;
+  bottom: 67.8rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .real-madrid {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 17.5rem;
+  bottom: 15.8rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .cr-71 {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 18.8rem;
+  bottom: 61.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .scp {
+  filter: blur(0.6rem);
+  position: absolute;
+  left: 18.8rem;
+  bottom: 9.4rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .twemojiflag-algeria {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 40rem;
+  bottom: 79.9rem;
+  width: 2.3rem;
+  height: 2.3rem;
+}
+.leaderboard-1 .twemojiflag-algeria-1 {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 38.2rem;
+  bottom: 26.9rem;
+  width: 4.1rem;
+  height: 4.1rem;
+}
+.leaderboard-1 .twemojiflag-algeria-2 {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 40rem;
+  bottom: 67.6rem;
+  width: 2.3rem;
+  height: 2.3rem;
+}
+.leaderboard-1 .twemojiflag-algeria-3 {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 38.2rem;
+  bottom: 14.6rem;
+  width: 4.1rem;
+  height: 4.1rem;
+}
+.leaderboard-1 .twemojiflag-china {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 40rem;
+  bottom: 74.3rem;
+  width: 2.3rem;
+  height: 2.3rem;
+}
+.leaderboard-1 .twemojiflag-china-1 {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 38.2rem;
+  bottom: 21.3rem;
+  width: 4.1rem;
+  height: 4.1rem;
+}
+.leaderboard-1 .twemojiflag-portugal {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 40rem;
+  bottom: 61.9rem;
+  width: 2.3rem;
+  height: 2.3rem;
+}
+.leaderboard-1 .twemojiflag-portugal-1 {
+  filter: blur(0.6rem);
+  position: absolute;
+  right: 38.2rem;
+  bottom: 8.9rem;
+  width: 4.1rem;
+  height: 4.1rem;
+}
+.leaderboard-1 .hala-madrid {
+  filter: blur(0.6rem);
+  position: absolute;
+  top: 31.8rem;
+  right: 39.3rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .tech-geeks-1 {
+  filter: blur(0.6rem);
+  position: absolute;
+  top: 43.3rem;
+  right: 40rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .vector-127 {
+  width: 2.3rem;
+  height: 2.3rem;
+}
+.leaderboard-1 .material-symbolsedit-outline {
+  filter: blur(0.6rem);
+  position: absolute;
+  top: 31.4rem;
+  right: 28.3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.4rem;
+  width: 3.1rem;
+  height: 3.1rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .vector-128 {
+  width: 2.3rem;
+  height: 2.3rem;
+}
+.leaderboard-1 .material-symbolsedit-outline-1 {
+  filter: blur(0.6rem);
+  position: absolute;
+  top: 43.3rem;
+  right: 28.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.4rem;
+  width: 3.1rem;
+  height: 3.1rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .vector-129 {
+  width: 2.3rem;
+  height: 2.3rem;
+}
+.leaderboard-1 .material-symbolsedit-outline-2 {
+  filter: blur(0.6rem);
+  position: absolute;
+  top: 37.4rem;
+  right: 28.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.4rem;
+  width: 3.1rem;
+  height: 3.1rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .rectangle-286 {
+  border-radius: 1.3rem;
+  border: 0.1rem solid #ABDCD8;
+  background: #011728;
+  position: absolute;
+  left: 8.1rem;
+  bottom: 5.2rem;
+  width: 21.1rem;
+  height: 5rem;
+}
+.leaderboard-1 .full-name-meriem-f {
+  margin: 0.3rem 0.9rem 0.2rem 0;
+  display: inline-block;
+  width: 21.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.6rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .vector-133 {
+  width: 2.3rem;
+  height: 2.3rem;
+}
+.leaderboard-1 .material-symbolsedit-outline-4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 2.3rem;
+  height: 2.3rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .container-10 {
+  border-radius: 1.3rem;
+  border: 0.1rem solid #ABDCD8;
+  background: #011728;
+  position: relative;
+  margin-bottom: 1.9rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 2.1rem 1.6rem 2.1rem 1.8rem;
+  width: 28.1rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .username-miro {
+  margin: 0.4rem 0.9rem 0.2rem 0;
+  display: inline-block;
+  width: 21.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.6rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .vector-134 {
+  width: 2.3rem;
+  height: 2.3rem;
+}
+.leaderboard-1 .material-symbolsedit-outline-5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 2.3rem;
+  height: 2.3rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .container-25 {
+  border-radius: 1.3rem;
+  border: 0.1rem solid #ABDCD8;
+  background: #011728;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 2rem 1.6rem 2.1rem 1.8rem;
+  width: 28.1rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .container-5 {
+  margin: 5.4rem 9.8rem 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 28.1rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.leaderboard-1 .vector-131 {
+  width: 10.3rem;
+  height: 10.3rem;
+}
+.leaderboard-1 .biperson-fill-1 {
+  margin-bottom: 1.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 10.3rem;
+  height: 10.3rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .vector-132 {
+  width: 1.4rem;
+  height: 1.4rem;
+}
+.leaderboard-1 .material-symbolsedit-outline-3 {
+  margin-left: 0.2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1.4rem;
+  height: 1.4rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .container-7 {
+  border-radius: 8.6rem;
+  background: #39BAAA;
+  position: relative;
+  margin-bottom: 3.3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 3.4rem 0 0.9rem 0;
+  width: 17.1rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.leaderboard-1 .container-9 {
+  margin-bottom: 1.9rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 55rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .date-of-birth-01082000 {
+  margin: 0.6rem 0.9rem 0 0;
+  display: inline-block;
+  width: 21.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.6rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .vector-144 {
+  width: 2.3rem;
+  height: 2.3rem;
+}
+.leaderboard-1 .material-symbolsedit-outline-15 {
+  margin-bottom: 0.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 2.3rem;
+  height: 2.3rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .container-1 {
+  border-radius: 1.3rem;
+  border: 0.1rem solid #ABDCD8;
+  background: #011728;
+  position: relative;
+  margin-right: 2.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1.8rem 1.6rem 2.3rem 1.8rem;
+  width: 28.1rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .gender-f {
+  margin: 0.5rem 0.9rem 0rem 0;
+  display: inline-block;
+  width: 21.3rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.6rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .vector-135 {
+  width: 2.3rem;
+  height: 2.3rem;
+}
+.leaderboard-1 .material-symbolsedit-outline-6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 2.3rem;
+  height: 2.3rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .container-16 {
+  border-radius: 1.3rem;
+  border: 0.1rem solid #ABDCD8;
+  background: #011728;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1.9rem 1.8rem 2.3rem 1.8rem;
+  width: 28.1rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .container-6 {
+  margin-bottom: 1.9rem;
+  display: flex;
+  flex-direction: row;
+  width: 58.2rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .email-meriem-fedu-usthb-dz {
+  margin: 0.5rem 0.3rem 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.6rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .vector-141 {
+  width: 2.3rem;
+  height: 2.3rem;
+}
+.leaderboard-1 .material-symbolsedit-outline-12 {
+  margin-bottom: 0rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 2.3rem;
+  height: 2.3rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .container {
+  border-radius: 1.3rem;
+  border: 0.1rem solid #ABDCD8;
+  background: #011728;
+  position: relative;
+  margin-right: 1.9rem;
+  display: flex;
+  flex-direction: row;
+  padding: 1.8rem 1.6rem 2.3rem 1.8rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .confirm-email {
+  margin: 0.2rem 0.9rem 0.4rem 0;
+  display: inline-block;
+  width: 21.4rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.6rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .vector-136 {
+  width: 2.3rem;
+  height: 2.3rem;
+}
+.leaderboard-1 .material-symbolsedit-outline-7 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 2.3rem;
+  height: 2.3rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .container-14 {
+  border-radius: 1.3rem;
+  border: 0.1rem solid #ABDCD8;
+  background: #011728;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 2.2rem 1.6rem 2rem 1.8rem;
+  width: 28.1rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .container-22 {
+  margin: 0 0.1rem 1.9rem 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.leaderboard-1 .password {
+  margin: 0.5rem 0.9rem 0rem 0;
+  display: inline-block;
+  width: 21.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.6rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .vector-140 {
+  width: 2.3rem;
+  height: 2.3rem;
+}
+.leaderboard-1 .material-symbolsedit-outline-11 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 2.3rem;
+  height: 2.3rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .container-11 {
+  border-radius: 1.3rem;
+  border: 0.1rem solid #ABDCD8;
+  background: #011728;
+  position: relative;
+  margin-right: 1.9rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1.9rem 1.6rem 2.3rem 1.8rem;
+  width: 28.1rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .confirm-password {
+  margin: 0.5rem 0.9rem 0 0;
+  display: inline-block;
+  width: 21.4rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.6rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .vector-137 {
+  width: 2.3rem;
+  height: 2.3rem;
+}
+.leaderboard-1 .material-symbolsedit-outline-8 {
+  margin-bottom: 0rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 2.3rem;
+  height: 2.3rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .container-26 {
+  border-radius: 1.3rem;
+  border: 0.1rem solid #ABDCD8;
+  background: #011728;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1.8rem 1.6rem 2.3rem 1.8rem;
+  width: 28.1rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .container-4 {
+  margin: 0 0.1rem 1.9rem 0;
+  display: flex;
+  flex-direction: row;
+  width: 58.1rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .cv-link {
+  margin: 0.5rem 0.9rem 0rem 0;
+  display: inline-block;
+  width: 21.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.6rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .vector-139 {
+  width: 2.3rem;
+  height: 2.3rem;
+}
+.leaderboard-1 .material-symbolsedit-outline-10 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 2.3rem;
+  height: 2.3rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .container-2 {
+  border-radius: 1.3rem;
+  border: 0.1rem solid #ABDCD8;
+  background: #011728;
+  position: relative;
+  margin-right: 2.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1.9rem 1.6rem 2.3rem 1.8rem;
+  width: 28.1rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .linkedin {
+  margin: 0.9rem 0.9rem 0 0;
+  display: inline-block;
+  width: 21.4rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.6rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .vector-138 {
+  width: 2.3rem;
+  height: 2.3rem;
+}
+.leaderboard-1 .material-symbolsedit-outline-9 {
+  margin-bottom: 0.4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 2.3rem;
+  height: 2.3rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .container-21 {
+  border-radius: 1.3rem;
+  border: 0.1rem solid #ABDCD8;
+  background: #011728;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1.5rem 1.6rem 2.3rem 1.8rem;
+  width: 28.1rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .container-8 {
+  margin-bottom: 2rem;
+  display: flex;
+  flex-direction: row;
+  width: 58.2rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .portfolio {
+  margin: 0rem 0.9rem 0.5rem 0;
+  display: inline-block;
+  width: 21.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.6rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .vector-142 {
+  width: 2.3rem;
+  height: 2.3rem;
+}
+.leaderboard-1 .material-symbolsedit-outline-13 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 2.3rem;
+  height: 2.3rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .container-3 {
+  border-radius: 1.3rem;
+  border: 0.1rem solid #ABDCD8;
+  background: #011728;
+  position: relative;
+  margin-right: 2.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1.9rem 1.6rem 2.3rem 1.8rem;
+  width: 28.1rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .github {
+  margin: 0.3rem 0.9rem 0.2rem 0;
+  display: inline-block;
+  width: 21.3rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.6rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .vector-143 {
+  width: 2.3rem;
+  height: 2.3rem;
+}
+.leaderboard-1 .material-symbolsedit-outline-14 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 2.3rem;
+  height: 2.3rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .container-24 {
+  border-radius: 1.3rem;
+  border: 0.1rem solid #ABDCD8;
+  background: #011728;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1.6rem 1.8rem 2.5rem 1.8rem;
+  width: 28.1rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .container-18 {
+  margin-bottom: 2.2rem;
+  display: flex;
+  flex-direction: row;
+  width: 58.2rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .skills {
+  margin: 0 0.9rem 0.6rem 0;
+  display: inline-block;
+  width: 51.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.6rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .vector-145 {
+  width: 2.3rem;
+  height: 2.3rem;
+}
+.leaderboard-1 .material-symbolsedit-outline-16 {
+  margin-top: 0.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 2.3rem;
+  height: 2.3rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .container-23 {
+  border-radius: 1.3rem;
+  border: 0.1rem solid #ABDCD8;
+  background: #011728;
+  position: relative;
+  margin: 0 0.3rem 6.5rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1.9rem 1.4rem 2.1rem 1.8rem;
+  width: 57.9rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .cancel {
+  position: absolute;
+  top: -0.1rem;
+  right: 2.3rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .frame-7 {
+  position: absolute;
+  left: -2rem;
+  bottom: -3.3rem;
+  width: 11.5rem;
+  height: 6.3rem;
+}
+.leaderboard-1 .frame-6 {
+  position: relative;
+  margin-bottom: 1.1rem;
+  width: 9.5rem;
+  height: 5.4rem;
+}
+.leaderboard-1 .save {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.leaderboard-1 .container-12 {
+  border-radius: 1.3rem;
+  background: #ABDCD8;
+  position: relative;
+  margin-top: 1.4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1.1rem 0rem 1.4rem 0;
+  width: 21.1rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.leaderboard-1 .container-15 {
+  margin: 0 2.8rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-end;
+  width: 43.6rem;
+  box-sizing: border-box;
+}
+.leaderboard-1 .container-17 {
+  border-radius: 0.6rem;
+  border: 0.1rem solid #ABDCD8;
+  background: #011728;
+  position: absolute;
+  top: 20.6rem;
+  right: 23.5rem;
+  display: flex;
+  flex-direction: column;
+  padding: 5.8rem 3.6rem 5.2rem 2.3rem;
+  box-sizing: border-box;
+}
+.leaderboard {
+  background: #011728;
+  display: flex;
+  flex-direction: column;
+  padding: 1.9rem 2.6rem 4.6rem 3.5rem;
+  width: 120rem;
+  box-sizing: border-box;
+}

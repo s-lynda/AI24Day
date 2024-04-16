@@ -1,0 +1,924 @@
+.challenges-3 .ellipse-15 {
+  position: absolute;
+  left: 5.3rem;
+  top: 66.3rem;
+  width: 8.1rem;
+  height: 8.1rem;
+}
+.challenges-3 .code-quest-arena {
+  margin: 0.5rem 1.6rem 0.5rem 0;
+  width: 30rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.8rem;
+  color: var(--color-2, #39BAAA);
+}
+.code-quest-arena-sub3 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.8rem;
+  line-height: 1.333;
+  background: linear-gradient(#ABDCD8, #ABDCD8), linear-gradient(#39BAAA, #39BAAA);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.code-quest-arena {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.8rem;
+  line-height: 1.333;
+  background: linear-gradient(#ABDCD8, #ABDCD8), linear-gradient(#39BAAA, #39BAAA);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.challenges-3 .home {
+  margin-right: 1.3rem;
+  width: 8.3rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.challenges-3 .about-us {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.challenges-3 .events {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.challenges-3 .challenges-1 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.challenges-3 .container-24 {
+  margin: 0.9rem 0 0.8rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 43.4rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.challenges-3 .arena {
+  margin: 0.9rem 0 0.8rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.challenges-3 .vector {
+  width: 2.6rem;
+  height: 2.6rem;
+}
+.challenges-3 .container-26 {
+  border-radius: 2.1rem;
+  background: #39BAAA;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1.2rem 0.8rem 0.5rem 0.9rem;
+  width: 4.3rem;
+  height: 4.3rem;
+  box-sizing: border-box;
+}
+.challenges-3 .container-30 {
+  position: relative;
+  margin: 0 0 2rem 0.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 113.8rem;
+  box-sizing: border-box;
+}
+.challenges-3 .rectangle-16 {
+  box-shadow: 0rem 0.3rem 0.3rem 0rem rgba(0, 0, 0, 0.25);
+  border-radius: 1.3rem;
+  border: 0.1rem solid #000000;
+  background: #ABDCD8;
+  width: 113.9rem;
+  height: 0.3rem;
+}
+.challenges-3 .container-32 {
+  box-shadow: 0rem 0.3rem 0.3rem 0rem rgba(0, 0, 0, 0.25);
+  border-radius: 1.3rem;
+  border: 0.1rem solid #000000;
+  background: #ABDCD8;
+  position: relative;
+  margin-bottom: 4.8rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 113.9rem;
+  height: 0.3rem;
+  box-sizing: border-box;
+}
+.cqa {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.9rem;
+  line-height: 1.333;
+  background: linear-gradient(#ABDCD8, #ABDCD8), linear-gradient(#39BAAA, #39BAAA);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.challenges-3 .cqa {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.9rem;
+  color: var(--color-2, #39BAAA);
+}
+.cqa-sub7 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.9rem;
+  line-height: 1.333;
+  background: linear-gradient(#ABDCD8, #ABDCD8), linear-gradient(#39BAAA, #39BAAA);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.cqa-sub6 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.9rem;
+  line-height: 1.333;
+}
+.challenges-3 .container-25 {
+  border-radius: 4rem;
+  background: #011728;
+  position: relative;
+  margin: 0 1.3rem 2.1rem 1.3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  padding: 2.9rem 1rem 2.9rem 0.7rem;
+  box-sizing: border-box;
+}
+.challenges-3 .team-1 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.9rem;
+  background: linear-gradient(#ABDCD8, #ABDCD8), linear-gradient(#39BAAA, #39BAAA);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.challenges-3 .container-19 {
+  border-radius: 4rem;
+  background: #011728;
+  position: relative;
+  margin: 0 1.3rem 2.1rem 1.3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  padding: 2.9rem 1.1rem 2.9rem 0.7rem;
+  box-sizing: border-box;
+}
+.challenges-3 .team-2 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.9rem;
+  background: linear-gradient(#ABDCD8, #ABDCD8), linear-gradient(#39BAAA, #39BAAA);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.challenges-3 .container-31 {
+  border-radius: 4rem;
+  background: #011728;
+  position: relative;
+  margin: 0 1.3rem 2.1rem 1.3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  padding: 3rem 1.1rem 2.9rem 0.7rem;
+  box-sizing: border-box;
+}
+.challenges-3 .rectangle-288 {
+  border-radius: 0.6rem;
+  background: #ABDCD8;
+  margin-bottom: 2.1rem;
+  width: 10.6rem;
+  height: 0.3rem;
+}
+.challenges-3 .ch-n-1 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.9rem;
+  background: linear-gradient(#ABDCD8, #ABDCD8), linear-gradient(#39BAAA, #39BAAA);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.challenges-3 .container-21 {
+  border-radius: 4rem;
+  background: #011728;
+  position: relative;
+  margin: 0 1.3rem 1.7rem 1.3rem;
+  align-self: flex-start;
+  padding: 2.9rem 1.1rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.challenges-3 .ch-n-2 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.9rem;
+  background: linear-gradient(#ABDCD8, #ABDCD8), linear-gradient(#39BAAA, #39BAAA);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.challenges-3 .container-20 {
+  border-radius: 4rem;
+  background: #011728;
+  position: relative;
+  margin: 0 1.3rem 4.6rem 1.3rem;
+  align-self: flex-start;
+  padding: 3rem 1.1rem 2.9rem 1.1rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.challenges-3 .ch-n-3 {
+  margin: 0 0.3rem 4.5rem 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.9rem;
+  background: linear-gradient(#ABDCD8, #ABDCD8), linear-gradient(#39BAAA, #39BAAA);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.challenges-3 .agc {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.9rem;
+  background: linear-gradient(#ABDCD8, #ABDCD8), linear-gradient(#39BAAA, #39BAAA);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.challenges-3 .container-5 {
+  border-radius: 4rem;
+  background: #011728;
+  position: relative;
+  margin: 0 1.3rem 1.6rem 1.3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  padding: 2.6rem 0.1rem 3.3rem 0;
+  width: 8.1rem;
+  box-sizing: border-box;
+}
+.challenges-3 .mc-hack {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.9rem;
+  background: linear-gradient(#ABDCD8, #ABDCD8), linear-gradient(#39BAAA, #39BAAA);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.challenges-3 .container-28 {
+  border-radius: 4rem;
+  background: #011728;
+  position: relative;
+  margin: 0 1.3rem 1.6rem 1.3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  padding: 1.8rem 0.1rem 1.8rem 0;
+  width: 8.1rem;
+  box-sizing: border-box;
+}
+.challenges-3 .mgv {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.9rem;
+  background: linear-gradient(#ABDCD8, #ABDCD8), linear-gradient(#39BAAA, #39BAAA);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.challenges-3 .container-4 {
+  border-radius: 4rem;
+  background: #011728;
+  position: relative;
+  margin: 0 1.3rem 1.6rem 1.3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  padding: 2.9rem 0.2rem 3rem 0;
+  width: 8.1rem;
+  box-sizing: border-box;
+}
+.challenges-3 .ai-24-d {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.9rem;
+  background: linear-gradient(#ABDCD8, #ABDCD8), linear-gradient(#39BAAA, #39BAAA);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.challenges-3 .container-13 {
+  border-radius: 4rem;
+  background: #011728;
+  position: relative;
+  margin: 0 1.3rem;
+  align-self: flex-start;
+  padding: 2.9rem 0.7rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.challenges-3 .container-9 {
+  margin: 0.8rem 0.9rem 48.9rem 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.challenges-3 .rectangle-289 {
+  border-radius: 0.6rem;
+  background: #ABDCD8;
+  margin-right: 0.5rem;
+  width: 0.3rem;
+  height: 148.8rem;
+}
+.challenges-3 .rectangle-293 {
+  border-radius: 0.6rem;
+  background: #39BAAA;
+  position: absolute;
+  left: 50%;
+  top: 0rem;
+  translate: -50% 0;
+  width: 24.2rem;
+  height: 121.6rem;
+}
+.challenges-3 .team-11 {
+  position: relative;
+  margin: 0 0.3rem 8rem 0.3rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.9rem;
+  color: #000000;
+}
+.challenges-3 .main {
+  margin-right: 1.1rem;
+  width: 17.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.9rem;
+  color: #000000;
+}
+.challenges-3 .vector-9 {
+  width: 1.1rem;
+  height: 1.1rem;
+}
+.challenges-3 .icbaseline-plus {
+  margin: 0.7rem 0 0.4rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1.1rem;
+  height: 1.1rem;
+  box-sizing: border-box;
+}
+.challenges-3 .container-17 {
+  position: relative;
+  margin: 0 0.3rem 2.4rem 0.3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 19.7rem;
+  box-sizing: border-box;
+}
+.challenges-3 .general-chat {
+  position: relative;
+  margin: 0 0.3rem 2.4rem 0.3rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.9rem;
+  color: #000000;
+}
+.challenges-3 .tasks {
+  position: relative;
+  margin: 0 0.3rem 2.4rem 0.3rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.9rem;
+  color: #000000;
+}
+.challenges-3 .memes {
+  position: relative;
+  margin: 0 0.3rem 4.3rem 0.3rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.9rem;
+  color: #000000;
+}
+.challenges-3 .challanges {
+  margin-right: 1.1rem;
+  width: 17.7rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.9rem;
+  color: #000000;
+}
+.challenges-3 .vector-10 {
+  width: 1.1rem;
+  height: 1.1rem;
+}
+.challenges-3 .icbaseline-plus-1 {
+  margin: 0.5rem 0 0.6rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1.1rem;
+  height: 1.1rem;
+  box-sizing: border-box;
+}
+.challenges-3 .container-11 {
+  position: relative;
+  margin-bottom: 3.6rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 19.9rem;
+  box-sizing: border-box;
+}
+.challenges-3 .container {
+  position: relative;
+  margin: 0 0.3rem 4.3rem 0.3rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.9rem;
+  color: #000000;
+}
+.challenges-3 .container-1 {
+  position: relative;
+  margin: 0 0.3rem 4.3rem 0.3rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.9rem;
+  color: #000000;
+}
+.challenges-3 .container-2 {
+  position: relative;
+  margin: 0 0.3rem;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.9rem;
+  color: #000000;
+}
+.challenges-3 .container-8 {
+  border-radius: 0.6rem;
+  background: #39BAAA;
+  position: relative;
+  margin: 0 0.5rem 23.3rem 0;
+  display: flex;
+  flex-direction: column;
+  padding: 2.3rem 0 71.8rem 1.4rem;
+  width: 24.2rem;
+  box-sizing: border-box;
+}
+.challenges-3 .vector-8 {
+  width: 2.6rem;
+  height: 2.6rem;
+}
+.challenges-3 .container-7 {
+  border-radius: 2.1rem;
+  background: #39BAAA;
+  position: relative;
+  margin-right: 2.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1.2rem 0.8rem 0.5rem 0.9rem;
+  width: 4.3rem;
+  height: 4.3rem;
+  box-sizing: border-box;
+}
+.challenges-3 .hanma-100420242000 {
+  margin: 0.8rem 0;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.hanma-100420242000 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.8rem;
+  line-height: 1.333;
+  color: rgba(255, 255, 255, 0.5);
+}
+.challenges-3 .container-23 {
+  margin-bottom: 0.9rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.challenges-3 .hey-guys-did-you-hear-about-the-leatest-challenge-dropped-im-looking-for-teamwe-are-2-btw-we-need-3-more {
+  margin-bottom: 7.6rem;
+  display: inline-block;
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.8rem;
+  color: #FFFFFF;
+}
+.challenges-3 .vector-7 {
+  width: 2.6rem;
+  height: 2.6rem;
+}
+.challenges-3 .container-27 {
+  border-radius: 2.1rem;
+  background: #39BAAA;
+  position: relative;
+  margin-right: 2.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1.2rem 0.8rem 0.5rem 0.9rem;
+  width: 4.3rem;
+  height: 4.3rem;
+  box-sizing: border-box;
+}
+.challenges-3 .lynda-say-100420242005 {
+  margin: 0.7rem 0 1rem 0;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.lynda-say-100420242005 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.8rem;
+  line-height: 1.333;
+  color: rgba(255, 255, 255, 0.5);
+}
+.challenges-3 .container-22 {
+  margin-bottom: 1.9rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.challenges-3 .count-me-in-we-need-two-more {
+  margin: 0 32rem 8.8rem 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.8rem;
+  color: #FFFFFF;
+}
+.challenges-3 .vector-6 {
+  width: 2.6rem;
+  height: 2.6rem;
+}
+.challenges-3 .container-29 {
+  border-radius: 2.1rem;
+  background: #39BAAA;
+  position: relative;
+  margin-right: 2.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1.2rem 0.8rem 0.5rem 0.9rem;
+  width: 4.3rem;
+  height: 4.3rem;
+  box-sizing: border-box;
+}
+.challenges-3 .hanma-1004202420001 {
+  margin: 0.6rem 0 1.1rem 0;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.hanma-1004202420001 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.8rem;
+  line-height: 1.333;
+  color: rgba(255, 255, 255, 0.5);
+}
+.challenges-3 .container-18 {
+  margin-bottom: 1.8rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.challenges-3 .we-need-someone-good-with-node-js-is-there-anyone-intrested {
+  margin: 0 7rem 8.9rem 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.8rem;
+  color: #FFFFFF;
+}
+.challenges-3 .vector-5 {
+  width: 2.6rem;
+  height: 2.6rem;
+}
+.challenges-3 .container-10 {
+  border-radius: 2.1rem;
+  background: #39BAAA;
+  position: relative;
+  margin-right: 2.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1.2rem 0.8rem 0.5rem 0.9rem;
+  width: 4.3rem;
+  height: 4.3rem;
+  box-sizing: border-box;
+}
+.challenges-3 .omar-100420242010 {
+  margin: 0.5rem 0 1.2rem 0;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.omar-100420242010 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.8rem;
+  line-height: 1.333;
+  color: rgba(255, 255, 255, 0.5);
+}
+.challenges-3 .container-12 {
+  margin-bottom: 0.6rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.challenges-3 .iam-not-good-with-node-js-but-ican-help-with-you-ui-ux-part-is-there-place-forme-in-the-team {
+  margin: 0 0.6rem 8rem 0.6rem;
+  display: inline-block;
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.8rem;
+  color: #FFFFFF;
+}
+.challenges-3 .vector-4 {
+  width: 2.6rem;
+  height: 2.6rem;
+}
+.challenges-3 .container-16 {
+  border-radius: 2.1rem;
+  background: #39BAAA;
+  position: relative;
+  margin-right: 2.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1.2rem 0.8rem 0.5rem 0.9rem;
+  width: 4.3rem;
+  height: 4.3rem;
+  box-sizing: border-box;
+}
+.challenges-3 .hanma-100420242030 {
+  margin: 0.3rem 0 1.3rem 0;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.hanma-100420242030 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.8rem;
+  line-height: 1.333;
+  color: rgba(255, 255, 255, 0.5);
+}
+.challenges-3 .container {
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.challenges-3 .ofc-mate-we-would-love-to-have-you-on-the-team {
+  margin: 0 18.9rem 9.1rem 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.8rem;
+  color: #FFFFFF;
+}
+.challenges-3 .vector-3 {
+  width: 2.6rem;
+  height: 2.6rem;
+}
+.challenges-3 .container-6 {
+  border-radius: 2.1rem;
+  background: #39BAAA;
+  position: relative;
+  margin-right: 2.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1.2rem 0.8rem 0.5rem 0.9rem;
+  width: 4.3rem;
+  height: 4.3rem;
+  box-sizing: border-box;
+}
+.challenges-3 .lynda-say-100420242035 {
+  margin: 0.2rem 0 1.5rem 0;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.lynda-say-100420242035 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.8rem;
+  line-height: 1.333;
+  color: rgba(255, 255, 255, 0.5);
+}
+.challenges-3 .container-1 {
+  margin-bottom: 1.4rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.challenges-3 .oh-nice-omar-is-joining-us {
+  margin-right: 35.8rem;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.8rem;
+  color: #FFFFFF;
+}
+.challenges-3 .container-3 {
+  border-radius: 0.6rem;
+  border: 0.1rem solid #ABDCD8;
+  background: #011728;
+  position: relative;
+  margin-bottom: 2.3rem;
+  display: flex;
+  flex-direction: column;
+  padding: 15.6rem 2.9rem 5.6rem 3.3rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.challenges-3 .vector-1 {
+  width: 2.7rem;
+  height: 2.7rem;
+}
+.challenges-3 .carbonadd-filled {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 2.7rem;
+  height: 2.7rem;
+  box-sizing: border-box;
+}
+.challenges-3 .send-message-ingeneral {
+  margin: 0.3rem 0 0.2rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.9rem;
+  color: #000000;
+}
+.challenges-3 .vector-2 {
+  width: 2.6rem;
+  height: 2.6rem;
+}
+.challenges-3 .mdiemoji {
+  margin: 0.1rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 2.6rem;
+  height: 2.6rem;
+  box-sizing: border-box;
+}
+.challenges-3 .container-14 {
+  border-radius: 0.6rem;
+  background: #ABDCD8;
+  position: relative;
+  margin-left: 0.6rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1.7rem 2.4rem 1.7rem 1.8rem;
+  width: 75.8rem;
+  box-sizing: border-box;
+}
+.challenges-3 .container-2 {
+  margin: 0.1rem 0 26.8rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.challenges-3 .container-15 {
+  position: relative;
+  margin-left: 0.5rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.challenges {
+  background: #011728;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1.9rem 2.6rem 0 3.5rem;
+  width: 120rem;
+  box-sizing: border-box;
+}

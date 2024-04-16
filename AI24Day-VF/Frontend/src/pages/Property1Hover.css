@@ -1,0 +1,15 @@
+.property-1-hover .container {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 1.6rem;
+  color: #FFFFFF;
+}
+.property-1-hover {
+  background: rgba(57, 186, 170, 0.5);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.7rem 1.1rem;
+  box-sizing: border-box;
+}

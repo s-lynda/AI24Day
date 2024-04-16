@@ -1,0 +1,636 @@
+.edit-current-account .sidebar {
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+  width: 14.6rem;
+  height: 63.8rem;
+}
+.edit-current-account .code-quest-arena {
+  margin: 1.2rem 3.7rem 2.1rem 0;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: var(--color-2, #39BAAA);
+}
+.code-quest-arena-sub4 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.3rem;
+  line-height: 1.333;
+  background: linear-gradient(#ABDCD8, #ABDCD8), linear-gradient(#39BAAA, #39BAAA);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.code-quest-arena-sub3 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.3rem;
+  line-height: 1.333;
+  color: #39BAAA;
+}
+.code-quest-arena {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.3rem;
+  line-height: 1.333;
+  background: linear-gradient(#ABDCD8, #ABDCD8), linear-gradient(#39BAAA, #39BAAA);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.edit-current-account .rglages {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 4rem;
+  color: #303030;
+}
+.edit-current-account .container-8 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.edit-current-account .united {
+  margin: 0.1rem 0.9rem 0.1rem 0;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.edit-current-account .eng-us {
+  overflow-wrap: break-word;
+  font-family: var(--text-text-semi-bold-1-font-family, 'Poppins');
+  font-weight: var(--text-text-semi-bold-1-font-weight, 600);
+  font-size: var(--text-text-semi-bold-1-font-size, 1.1rem);
+  color: var(--color-black, #374557);
+}
+.edit-current-account .text {
+  margin-right: 1.4rem;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.edit-current-account .vector-23 {
+  width: 0.6rem;
+  height: 0.4rem;
+}
+.edit-current-account .chevron-down {
+  margin: 0.7rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 0.6rem;
+  height: 0.4rem;
+  box-sizing: border-box;
+}
+.edit-current-account .languange {
+  margin: 1.3rem 3.1rem 0.8rem 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.edit-current-account .container {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.edit-current-account .container-13 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1.5rem;
+  height: 1.5rem;
+  box-sizing: border-box;
+}
+.edit-current-account .notifications {
+  border-radius: 0.5rem;
+  background: #ABDCD8;
+  position: relative;
+  margin: 0.6rem 1.4rem 0.2rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.8rem;
+  width: 3rem;
+  height: 3rem;
+  box-sizing: border-box;
+}
+.edit-current-account .rectangle-1393 {
+  border-radius: 1rem;
+  background: url('assets/images/Rectangle1393.jpeg') 50% / cover no-repeat;
+  margin-right: 1.3rem;
+  width: 3.8rem;
+  height: 3.8rem;
+}
+.edit-current-account .anis {
+  margin: 0 0.8rem 0.2rem 0;
+  display: inline-block;
+  width: 6.1rem;
+  overflow-wrap: break-word;
+  font-family: var(--base-medium-font-family, 'Poppins');
+  font-weight: var(--base-medium-font-weight, 500);
+  font-size: var(--base-medium-font-size, 1rem);
+  line-height: var(--base-medium-line-height, 1.5);
+  color: var(--greys-blue-grey-900, #151D48);
+}
+.edit-current-account .shape {
+  width: 0.5rem;
+  height: 0.3rem;
+}
+.edit-current-account .group-21861 {
+  margin-top: 1.4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 0.5rem;
+  height: 0.3rem;
+  box-sizing: border-box;
+}
+.edit-current-account .container-14 {
+  margin-bottom: 0.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 7.4rem;
+  box-sizing: border-box;
+}
+.edit-current-account .admin {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--sm-regular-font-family, 'Poppins');
+  font-weight: var(--sm-regular-font-weight, 400);
+  font-size: var(--sm-regular-font-size, 0.9rem);
+  line-height: var(--sm-regular-line-height, 1.429);
+  color: var(--greys-blue-grey-700, #737791);
+}
+.edit-current-account .group-21862 {
+  margin: 0.4rem 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.edit-current-account .group-1000002734 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.edit-current-account .container-10 {
+  margin: 0.5rem 0 0.4rem 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.edit-current-account .container-1 {
+  position: relative;
+  margin: 0 0 5rem 0.3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 89.1rem;
+  box-sizing: border-box;
+}
+.edit-current-account .information {
+  box-shadow: 0.3rem 0.3rem 0.5rem 0rem rgba(0, 86, 158, 0.04);
+  margin-right: 1.1rem;
+  width: 13.6rem;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 1.5rem;
+  color: var(--color-2, #39BAAA);
+}
+.edit-current-account .ajouter-admin {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 1.5rem;
+  color: rgba(0, 0, 0, 0.6);
+}
+.edit-current-account .container-7 {
+  position: relative;
+  margin: 0 32.1rem 0.1rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: center;
+  width: 25.5rem;
+  box-sizing: border-box;
+}
+.edit-current-account .vector-6 {
+  margin-right: 0.7rem;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.edit-current-account .activities {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 1rem;
+  color: #000000;
+}
+.edit-current-account .group-31 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.edit-current-account .rectangle-4 {
+  box-shadow: 0.3rem 0.3rem 0.5rem 0rem rgba(0, 86, 158, 0.1);
+  border-radius: 0 1.3rem 1.3rem 0;
+  align-self: flex-start;
+  width: 9.4rem;
+  height: 0.3rem;
+}
+.edit-current-account .line-8 {
+  background: #000000;
+  width: 42rem;
+  height: 0.1rem;
+}
+.edit-current-account .container-6 {
+  margin: 0.4rem 0 0.7rem 0;
+  display: flex;
+  flex-direction: column;
+  width: 42rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.edit-current-account .container-11 {
+  position: relative;
+  margin: 0 1.4rem 2.7rem 1.4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 56.4rem;
+  box-sizing: border-box;
+}
+.edit-current-account .vector {
+  width: 1.1rem;
+  height: 1.1rem;
+}
+.edit-current-account .gridiconsstats-down {
+  margin: 0 0.2rem 3.3rem 0.2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1.1rem;
+  height: 1.1rem;
+  box-sizing: border-box;
+}
+.edit-current-account .carbonsettings-check {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.edit-current-account .container-5 {
+  margin: 0.2rem 0.8rem 14.7rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1.5rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.edit-current-account .statistics {
+  margin: 0 0.1rem 3rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 1rem;
+  color: #000000;
+}
+.edit-current-account .rglages-1 {
+  margin-left: 0rem;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 1rem;
+  color: var(--color-2, #39BAAA);
+}
+.edit-current-account .container-4 {
+  margin: 0 7.5rem 14.8rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.edit-current-account .ellipse-26 {
+  border-radius: 1.2rem;
+  background: var(--color-2, #39BAAA);
+  position: absolute;
+  top: 0.2rem;
+  right: 0rem;
+  width: 2.4rem;
+  height: 2.4rem;
+}
+.edit-current-account .vector-7 {
+  width: 1.3rem;
+  height: 1.3rem;
+}
+.edit-current-account .bytesizeedit {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1.3rem;
+  height: 1.3rem;
+  box-sizing: border-box;
+}
+.edit-current-account .edit-pic {
+  border-radius: 4.5rem;
+  background: url('assets/images/Ellipse3.png') 50% / cover no-repeat;
+  position: relative;
+  margin: 0.2rem 3.8rem 11.6rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0.8rem 0.6rem 0 0.6rem;
+  width: 9rem;
+  height: 9rem;
+  box-sizing: border-box;
+}
+.edit-current-account .name {
+  position: relative;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: rgba(0, 0, 0, 0.5);
+}
+.edit-current-account .admin-1 {
+  margin-bottom: 3.3rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 1.4rem;
+  color: rgba(0, 0, 0, 0.8);
+}
+.edit-current-account .email {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: rgba(0, 0, 0, 0.5);
+}
+.edit-current-account .full-name-1 {
+  border-radius: 0.9rem;
+  margin-bottom: 0.3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.edit-current-account .heyhey-2-gmail-com {
+  position: relative;
+  margin: 0 0rem 5.1rem 0rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 1.4rem;
+  color: rgba(0, 0, 0, 0.8);
+}
+.edit-current-account .lynsay {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 1.4rem;
+  color: rgba(0, 0, 0, 0.8);
+}
+.edit-current-account .rectangle-73 {
+  border-radius: 0.9rem;
+  border: 0.1rem solid #C3C3C3;
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+  right: 0rem;
+  height: 5.3rem;
+}
+.edit-current-account .rectangle-731 {
+  border-radius: 0.9rem;
+  border: 0.1rem solid #C3C3C3;
+  position: absolute;
+  left: 0rem;
+  right: 0rem;
+  bottom: 6.5rem;
+  height: 5.3rem;
+}
+.edit-current-account .full-name {
+  border-radius: 0.9rem;
+  position: relative;
+  margin: 1rem 5.6rem 0.9rem 0;
+  display: flex;
+  flex-direction: column;
+  padding: 0.7rem 0 0 2.1rem;
+  width: 26.4rem;
+  box-sizing: border-box;
+}
+.edit-current-account .surname {
+  position: relative;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: rgba(0, 0, 0, 0.5);
+}
+.edit-current-account .admin-11 {
+  margin-bottom: 3.4rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 1.4rem;
+  color: rgba(0, 0, 0, 0.8);
+}
+.edit-current-account .phone-number {
+  margin-bottom: 0.1rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: rgba(0, 0, 0, 0.5);
+}
+.edit-current-account .heyhey-2-gmail-com-1 {
+  margin: 0 0rem;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 1.4rem;
+  color: rgba(0, 0, 0, 0.8);
+}
+.edit-current-account .rectangle-733 {
+  border-radius: 0.9rem;
+  border: 0.1rem solid #C3C3C3;
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+  right: 0rem;
+  height: 5.3rem;
+}
+.edit-current-account .full-name-2 {
+  border-radius: 0.9rem;
+  position: relative;
+  margin-bottom: 2.8rem;
+  display: flex;
+  flex-direction: column;
+  padding: 0.7rem 0 0 2.1rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.edit-current-account .mot-de-passe {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: rgba(0, 0, 0, 0.5);
+}
+.edit-current-account .line-9 {
+  background: #000000;
+  width: 0.1rem;
+  height: 1.2rem;
+}
+.edit-current-account .container-9 {
+  border-radius: 0.9rem;
+  border: 0.1rem solid #C3C3C3;
+  position: absolute;
+  left: 0rem;
+  right: 0rem;
+  bottom: 0rem;
+  padding: 2.6rem 2.2rem 1.6rem 2.2rem;
+  height: 5.3rem;
+  box-sizing: border-box;
+}
+.edit-current-account .password {
+  border-radius: 0.9rem;
+  position: relative;
+  padding: 0.7rem 2.1rem 2.9rem 2.1rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.edit-current-account .rectangle-734 {
+  border-radius: 0.9rem;
+  border: 0.1rem solid #C3C3C3;
+  position: absolute;
+  left: 0rem;
+  top: 50%;
+  right: 0rem;
+  translate: 0 -50%;
+  height: 5.3rem;
+}
+.edit-current-account .container-3 {
+  position: relative;
+  margin-top: 0.9rem;
+  display: flex;
+  flex-direction: column;
+  width: 26.4rem;
+  box-sizing: border-box;
+}
+.edit-current-account .username {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: rgba(0, 0, 0, 0.5);
+}
+.edit-current-account .rectangle-735 {
+  border-radius: 0.9rem;
+  border: 0.1rem solid #C3C3C3;
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+  right: 0rem;
+  bottom: 0rem;
+  height: 100%;
+}
+.edit-current-account .password-1 {
+  border-radius: 0.9rem;
+  position: absolute;
+  left: 27.4rem;
+  bottom: 0rem;
+  padding: 0.7rem 2.1rem 2.9rem 2.1rem;
+  width: 26.4rem;
+  box-sizing: border-box;
+}
+.edit-current-account .container-2 {
+  position: relative;
+  margin: 0 2.3rem 6.8rem 1.3rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.edit-current-account .enregistrer {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.edit-current-account .manage-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.edit-current-account .manage-particpants-button {
+  border-radius: 1.1rem;
+  background: #39BAAA;
+  position: relative;
+  margin: 0 2.6rem 8.1rem 2.6rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-end;
+  padding: 0.8rem 0.1rem 0.8rem 0;
+  width: 11.5rem;
+  box-sizing: border-box;
+}
+.edit-current-account .system-uiconsexit-right {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.edit-current-account .group-33 {
+  margin: 0 0.1rem 0rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1.5rem;
+  height: 1.5rem;
+  box-sizing: border-box;
+}
+.edit-current-account .se-dconnecter {
+  margin-top: 0rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 1rem;
+  color: #000000;
+}
+.edit-current-account .container-12 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.edit-current-account {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 2.1rem 3.8rem 4.7rem 1.4rem;
+  width: 94.5rem;
+  box-sizing: border-box;
+}

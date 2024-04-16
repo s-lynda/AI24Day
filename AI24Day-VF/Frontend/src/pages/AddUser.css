@@ -1,0 +1,634 @@
+.add-user .sidebar {
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+  width: 12.7rem;
+  height: 63.8rem;
+}
+.add-user .code-quest-arena {
+  margin: 1.3rem 3.2rem 1.9rem 0;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: var(--color-2, #39BAAA);
+}
+.code-quest-arena-sub4 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.3rem;
+  line-height: 1.333;
+  background: linear-gradient(#ABDCD8, #ABDCD8), linear-gradient(#39BAAA, #39BAAA);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.code-quest-arena-sub3 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.3rem;
+  line-height: 1.333;
+  color: #39BAAA;
+}
+.code-quest-arena {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 1.3rem;
+  line-height: 1.333;
+  background: linear-gradient(#ABDCD8, #ABDCD8), linear-gradient(#39BAAA, #39BAAA);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.add-user .color {
+  margin: 0.8rem 2.8rem 0.9rem 0;
+  width: 3rem;
+  height: 3rem;
+}
+.add-user .add-user-1 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 4rem;
+  color: #303030;
+}
+.add-user .container-1 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.add-user .united {
+  margin: 0.1rem 0.9rem 0.1rem 0;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.add-user .eng-us {
+  overflow-wrap: break-word;
+  font-family: var(--text-text-semi-bold-1-font-family, 'Poppins');
+  font-weight: var(--text-text-semi-bold-1-font-weight, 600);
+  font-size: var(--text-text-semi-bold-1-font-size, 1.1rem);
+  color: var(--color-black, #374557);
+}
+.add-user .text {
+  margin-right: 1.4rem;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.add-user .vector-22 {
+  width: 0.6rem;
+  height: 0.4rem;
+}
+.add-user .chevron-down {
+  margin: 0.7rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 0.6rem;
+  height: 0.4rem;
+  box-sizing: border-box;
+}
+.add-user .languange {
+  margin: 1.3rem 3.1rem 0.8rem 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.add-user .container-8 {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.add-user .container-13 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1.5rem;
+  height: 1.5rem;
+  box-sizing: border-box;
+}
+.add-user .notifications {
+  border-radius: 0.5rem;
+  background: #ABDCD8;
+  position: relative;
+  margin: 0.6rem 1.4rem 0.2rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.8rem;
+  width: 3rem;
+  height: 3rem;
+  box-sizing: border-box;
+}
+.add-user .rectangle-1393 {
+  border-radius: 1rem;
+  background: url('assets/images/Rectangle1393.jpeg') 50% / cover no-repeat;
+  margin-right: 1.3rem;
+  width: 3.8rem;
+  height: 3.8rem;
+}
+.add-user .anis {
+  margin: 0 0.8rem 0.2rem 0;
+  display: inline-block;
+  width: 6.1rem;
+  overflow-wrap: break-word;
+  font-family: var(--base-medium-font-family, 'Poppins');
+  font-weight: var(--base-medium-font-weight, 500);
+  font-size: var(--base-medium-font-size, 1rem);
+  line-height: var(--base-medium-line-height, 1.5);
+  color: var(--greys-blue-grey-900, #151D48);
+}
+.add-user .shape {
+  width: 0.5rem;
+  height: 0.3rem;
+}
+.add-user .group-21861 {
+  margin-top: 1.4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 0.5rem;
+  height: 0.3rem;
+  box-sizing: border-box;
+}
+.add-user .container-6 {
+  margin-bottom: 0.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 7.4rem;
+  box-sizing: border-box;
+}
+.add-user .admin {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--sm-regular-font-family, 'Poppins');
+  font-weight: var(--sm-regular-font-weight, 400);
+  font-size: var(--sm-regular-font-size, 0.9rem);
+  line-height: var(--sm-regular-line-height, 1.429);
+  color: var(--greys-blue-grey-700, #737791);
+}
+.add-user .group-21862 {
+  margin: 0.4rem 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.add-user .group-1000002734 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.add-user .container-12 {
+  margin: 0.1rem 0 0.9rem 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.add-user .container-4 {
+  position: relative;
+  margin-bottom: 6.9rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 90.5rem;
+  box-sizing: border-box;
+}
+.add-user .vector-6 {
+  margin-right: 0.7rem;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.add-user .activities {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 1rem;
+  color: #000000;
+}
+.add-user .group-31 {
+  margin: 0rem 0 1.4rem 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.add-user .hi-katie-pena {
+  overflow-wrap: break-word;
+  font-family: var(--headline-h-1-font-family, 'Inter');
+  font-weight: var(--headline-h-1-font-weight, 600);
+  font-size: var(--headline-h-1-font-size, 2.3rem);
+  line-height: var(--headline-h-1-line-height, 1.278);
+  color: var(--dark-1-dark, #202020);
+}
+.add-user .container-9 {
+  position: relative;
+  margin: 0 2.6rem 1.3rem 2.6rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 62.3rem;
+  box-sizing: border-box;
+}
+.add-user .vector {
+  width: 1.1rem;
+  height: 1.1rem;
+}
+.add-user .gridiconsstats-down {
+  margin: 0.2rem 1rem 0.2rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1.1rem;
+  height: 1.1rem;
+  box-sizing: border-box;
+}
+.add-user .statistics {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 1rem;
+  color: #000000;
+}
+.add-user .container-7 {
+  margin-bottom: 2.4rem;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.add-user .container {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 1rem;
+  color: #FDFDFD;
+}
+.add-user .container-2 {
+  border-radius: 1.4rem;
+  background: #39BAAA;
+  position: relative;
+  padding: 0.8rem 1.1rem;
+  width: 2.8rem;
+  box-sizing: border-box;
+}
+.add-user .line-11 {
+  background: #2F4F4E;
+  margin: 1.4rem 0;
+  width: 8rem;
+  height: 0.1rem;
+}
+.add-user .container-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1rem;
+  color: #FDFDFD;
+}
+.add-user .container-3 {
+  border-radius: 1.4rem;
+  background: rgba(99, 115, 122, 0.45);
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.8rem 1.1rem;
+  box-sizing: border-box;
+}
+.add-user .line-2 {
+  background: #2F4F4E;
+  margin: 1.4rem 0;
+  width: 8rem;
+  height: 0.1rem;
+}
+.add-user .container-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 1rem;
+  color: #FDFDFD;
+}
+.add-user .container-10 {
+  border-radius: 1.4rem;
+  background: rgba(99, 115, 122, 0.45);
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.8rem 1.1rem;
+  box-sizing: border-box;
+}
+.add-user .group-2 {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.add-user .container-11 {
+  position: relative;
+  margin: 0 2.6rem 0.7rem 2.6rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 62rem;
+  box-sizing: border-box;
+}
+.add-user .carbonsettings-check {
+  margin: 0.1rem 0.8rem 0 0;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.add-user .rglages {
+  margin-bottom: 0.1rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 1rem;
+  color: var(--color-2, #39BAAA);
+}
+.add-user .container-5 {
+  position: relative;
+  margin: 0 2.4rem 2.1rem 2.4rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.add-user .name {
+  margin-bottom: 0.5rem;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.name {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 1.1rem;
+  line-height: 1.333;
+  color: #FF0000;
+}
+.add-user .nom-de-famille {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: #D0D0D0;
+}
+.add-user .frame-2 {
+  border-radius: 0.6rem;
+  border: 0.1rem solid #D0D0D0;
+  padding: 0.9rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.add-user .password {
+  margin-right: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  width: 19.9rem;
+  box-sizing: border-box;
+}
+.add-user .surname {
+  margin-bottom: 0.5rem;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.surname {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 1.1rem;
+  line-height: 1.333;
+  color: #FF0000;
+}
+.add-user .prnom {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: #D0D0D0;
+}
+.add-user .frame-21 {
+  border-radius: 0.6rem;
+  border: 0.1rem solid #D0D0D0;
+  padding: 0.9rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.add-user .password-1 {
+  display: flex;
+  flex-direction: column;
+  width: 19.9rem;
+  box-sizing: border-box;
+}
+.add-user .frame-10 {
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.add-user .email-address {
+  margin-bottom: 1rem;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.email-address {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 1.1rem;
+  line-height: 1.333;
+  color: #FF0808;
+}
+.add-user .addresse-mail {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: #D0D0D0;
+}
+.add-user .frame-22 {
+  border-radius: 0.6rem;
+  border: 0.1rem solid #D0D0D0;
+  padding: 0.9rem;
+  box-sizing: border-box;
+}
+.add-user .password-2 {
+  margin-bottom: 1rem;
+  box-sizing: border-box;
+}
+.add-user .phone-number {
+  margin-bottom: 0.5rem;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.phone-number {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 1.1rem;
+  line-height: 1.333;
+  color: #FF0000;
+}
+.add-user .container-3 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: #D0D0D0;
+}
+.add-user .frame-23 {
+  border-radius: 0.6rem;
+  border: 0.1rem solid #D0D0D0;
+  padding: 0.9rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.add-user .password-3 {
+  margin: 0 1.5rem 0.1rem 0;
+  display: flex;
+  flex-direction: column;
+  width: 19.9rem;
+  box-sizing: border-box;
+}
+.add-user .role {
+  margin-bottom: 0.5rem;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.role {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 1.1rem;
+  line-height: 1.333;
+  color: #FF0000;
+}
+.add-user .admin-or-participant {
+  margin-right: 0.7rem;
+  width: 16.1rem;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: #D0D0D0;
+}
+.add-user .color-1 {
+  width: 0.9rem;
+  height: 0.4rem;
+}
+.add-user .icons-arrow-ios-down {
+  margin: 0.5rem 0 0.4rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 0.9rem;
+  height: 0.4rem;
+  box-sizing: border-box;
+}
+.add-user .frame-24 {
+  border-radius: 0.6rem;
+  border: 0.1rem solid #D0D0D0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1rem 1.3rem 1rem 0.9rem;
+  width: 19.9rem;
+  box-sizing: border-box;
+}
+.add-user .password-4 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.add-user .frame-11 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.add-user .frame-5 {
+  position: relative;
+  margin: 0 0 4.9rem 15.6rem;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.add-user .suivant {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 1rem;
+  color: #FDFDFD;
+}
+.add-user .cta {
+  border-radius: 0.6rem;
+  background: #39BAAA;
+  position: relative;
+  margin: 0 0 4.5rem 45.2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: center;
+  padding: 1.3rem 0.2rem 1.3rem 0;
+  width: 11.8rem;
+  box-sizing: border-box;
+}
+.add-user .system-uiconsexit-right {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.add-user .group-33 {
+  margin: 0 0.1rem 0rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1.5rem;
+  height: 1.5rem;
+  box-sizing: border-box;
+}
+.add-user .se-dconnecter {
+  margin-top: 0rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 1rem;
+  color: #000000;
+}
+.add-user .container {
+  position: relative;
+  margin: 0 1.1rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.add-user {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 2.5rem 3.8rem 4.7rem 0.3rem;
+  width: 94.5rem;
+  box-sizing: border-box;
+}

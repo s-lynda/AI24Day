@@ -1,0 +1,13 @@
+.property-1-default .container {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 1.6rem;
+  color: #000000;
+}
+.property-1-default {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}

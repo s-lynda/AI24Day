@@ -1,0 +1,249 @@
+.edit-current-account-1 .welcome-to {
+  margin: 0 0 1.4rem 0rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.5rem;
+  color: var(--color-1, #FFFFFF);
+}
+.edit-current-account-1 .code-quest-arena {
+  margin-bottom: 1.4rem;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 2.5rem;
+  color: var(--color-2, #39BAAA);
+}
+.code-quest-arena-sub1 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.8rem;
+  line-height: 1.333;
+  background: linear-gradient(#ABDCD8, #ABDCD8), linear-gradient(#39BAAA, #39BAAA);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.code-quest-arena-sub2 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.8rem;
+  line-height: 1.333;
+  color: #39BAAA;
+}
+.code-quest-arena {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.8rem;
+  line-height: 1.333;
+  background: linear-gradient(#ABDCD8, #ABDCD8), linear-gradient(#39BAAA, #39BAAA);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.edit-current-account-1 .log-in {
+  margin-right: 0rem;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 1.5rem;
+  color: var(--color-1, #FFFFFF);
+}
+.edit-current-account-1 .frame-8 {
+  margin: 0 0rem 8.4rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.edit-current-account-1 .our-platform-does-blah-blah-blah-blah-blah-blah-blah-gshsjsjsj {
+  overflow-wrap: break-word;
+  font-family: 'JetBrains Mono';
+  font-weight: 400;
+  font-size: 1.4rem;
+  color: var(--basicwhite, #FFFFFF);
+}
+.our-platform-does-blah-blah-blah-blah-blah-blah-blah-gshsjsjsj-sub11 {
+  font-family: 'JetBrains Mono';
+  font-weight: 400;
+  font-size: 1.4rem;
+  line-height: 1.333;
+  color: #39BAAA;
+}
+.our-platform-does-blah-blah-blah-blah-blah-blah-blah-gshsjsjsj-sub10 {
+  font-family: 'JetBrains Mono';
+  font-weight: 400;
+  font-size: 1.4rem;
+  line-height: 1.333;
+  color: #FFFFFF;
+}
+.our-platform-does-blah-blah-blah-blah-blah-blah-blah-gshsjsjsj {
+  font-family: 'JetBrains Mono';
+  font-weight: 400;
+  font-size: 1.4rem;
+  line-height: 1.333;
+  color: #39BAAA;
+}
+.edit-current-account-1 .container {
+  margin: 16.3rem 8.3rem 6.8rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.edit-current-account-1 .username-or-email {
+  margin-bottom: 0.5rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: var(--color-1, #FFFFFF);
+}
+.edit-current-account-1 .enter-your-user-name-or-email {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: #D0D0D0;
+}
+.edit-current-account-1 .frame-2 {
+  border-radius: 0.6rem;
+  border: 0.1rem solid var(--color-3, #ABDCD8);
+  padding: 1.6rem 0.9rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.edit-current-account-1 .password {
+  margin-bottom: 3.1rem;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.edit-current-account-1 .password-2 {
+  margin-bottom: 0.5rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: var(--color-1, #FFFFFF);
+}
+.edit-current-account-1 .entrer-votre-mot-de-passe {
+  margin-right: 0.7rem;
+  width: 36.7rem;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: #D0D0D0;
+}
+.edit-current-account-1 .vector {
+  width: 1.5rem;
+  height: 1.1rem;
+}
+.edit-current-account-1 .show {
+  margin: 0.1rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1.5rem;
+  height: 1.1rem;
+  box-sizing: border-box;
+}
+.edit-current-account-1 .frame-21 {
+  border-radius: 0.6rem;
+  border: 0.1rem solid var(--color-3, #ABDCD8);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1.6rem 0.9rem;
+  width: 40.9rem;
+  box-sizing: border-box;
+}
+.edit-current-account-1 .password-1 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.edit-current-account-1 .frame-5 {
+  margin-bottom: 8.3rem;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.edit-current-account-1 .log-in-1 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 1.3rem;
+  color: var(--color-1, #FFFFFF);
+}
+.edit-current-account-1 .cta {
+  border-radius: 0.6rem;
+  border: 0.1rem solid #39BAAA;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1.5rem 1rem 1.4rem 0;
+  width: 40.9rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.edit-current-account-1 .vous-navez-pas-de-compte {
+  margin-right: 1rem;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 1rem;
+  color: var(--color-1, #FFFFFF);
+}
+.edit-current-account-1 .inscrivez-vous {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 1rem;
+  text-decoration-line: underline;
+  color: var(--color-2, #39BAAA);
+}
+.edit-current-account-1 .frame-6 {
+  position: absolute;
+  left: 50%;
+  bottom: 0rem;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.edit-current-account-1 .frame-7 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-bottom: 2.4rem;
+  width: 40.9rem;
+  box-sizing: border-box;
+}
+.edit-current-account-1 .frame-9 {
+  margin-top: 15.7rem;
+  display: flex;
+  flex-direction: column;
+  width: 40.9rem;
+  box-sizing: border-box;
+}
+.edit-current-account {
+  background: #001723;
+  display: flex;
+  flex-direction: row;
+  padding: 15.7rem 4rem 19.6rem 6.7rem;
+  width: 94.5rem;
+  box-sizing: border-box;
+}

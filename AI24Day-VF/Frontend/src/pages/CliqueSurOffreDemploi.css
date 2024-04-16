@@ -1,0 +1,443 @@
+.clique-sur-offre-demploi .sidebar {
+  position: absolute;
+  left: 0rem;
+  top: 0rem;
+  width: 12.7rem;
+  height: 61.4rem;
+}
+.clique-sur-offre-demploi .mask-group-1 {
+  position: absolute;
+  left: 1.5rem;
+  top: 0.7rem;
+  width: 6rem;
+  height: 6.1rem;
+}
+.clique-sur-offre-demploi .alunno {
+  margin: 2.1rem 1.2rem 0.1rem 0;
+  display: inline-block;
+  width: 10.9rem;
+  overflow-wrap: break-word;
+  font-family: 'Magra';
+  font-weight: 600;
+  font-size: 2rem;
+  color: #31A483;
+}
+.clique-sur-offre-demploi .teams {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 4rem;
+  color: #303030;
+}
+.clique-sur-offre-demploi .united {
+  margin: 0.1rem 0.9rem 0.1rem 0;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.clique-sur-offre-demploi .eng-us {
+  overflow-wrap: break-word;
+  font-family: var(--text-text-semi-bold-1-font-family, 'Poppins');
+  font-weight: var(--text-text-semi-bold-1-font-weight, 600);
+  font-size: var(--text-text-semi-bold-1-font-size, 1.1rem);
+  color: var(--color-black, #374557);
+}
+.clique-sur-offre-demploi .text {
+  margin-right: 1.4rem;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.clique-sur-offre-demploi .vector-22 {
+  width: 0.6rem;
+  height: 0.4rem;
+}
+.clique-sur-offre-demploi .chevron-down {
+  margin: 0.7rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 0.6rem;
+  height: 0.4rem;
+  box-sizing: border-box;
+}
+.clique-sur-offre-demploi .languange {
+  margin: 1.3rem 3.1rem 0.8rem 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.clique-sur-offre-demploi .container-5 {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.clique-sur-offre-demploi .container-8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1.5rem;
+  height: 1.5rem;
+  box-sizing: border-box;
+}
+.clique-sur-offre-demploi .notifications {
+  border-radius: 0.5rem;
+  background: #ABDCD8;
+  position: relative;
+  margin: 0.6rem 1.4rem 0.2rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.8rem;
+  width: 3rem;
+  height: 3rem;
+  box-sizing: border-box;
+}
+.clique-sur-offre-demploi .rectangle-1393 {
+  border-radius: 1rem;
+  background: url('assets/images/Rectangle1393.jpeg') 50% / cover no-repeat;
+  margin-right: 1.3rem;
+  width: 3.8rem;
+  height: 3.8rem;
+}
+.clique-sur-offre-demploi .anis {
+  margin: 0 0.8rem 0.2rem 0;
+  display: inline-block;
+  width: 6.1rem;
+  overflow-wrap: break-word;
+  font-family: var(--base-medium-font-family, 'Poppins');
+  font-weight: var(--base-medium-font-weight, 500);
+  font-size: var(--base-medium-font-size, 1rem);
+  line-height: var(--base-medium-line-height, 1.5);
+  color: var(--greys-blue-grey-900, #151D48);
+}
+.clique-sur-offre-demploi .shape {
+  width: 0.5rem;
+  height: 0.3rem;
+}
+.clique-sur-offre-demploi .group-21861 {
+  margin-top: 1.4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 0.5rem;
+  height: 0.3rem;
+  box-sizing: border-box;
+}
+.clique-sur-offre-demploi .container-2 {
+  margin-bottom: 0.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 7.4rem;
+  box-sizing: border-box;
+}
+.clique-sur-offre-demploi .admin {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--sm-regular-font-family, 'Poppins');
+  font-weight: var(--sm-regular-font-weight, 400);
+  font-size: var(--sm-regular-font-size, 0.9rem);
+  line-height: var(--sm-regular-line-height, 1.429);
+  color: var(--greys-blue-grey-700, #737791);
+}
+.clique-sur-offre-demploi .group-21862 {
+  margin: 0.4rem 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.clique-sur-offre-demploi .group-1000002734 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.clique-sur-offre-demploi .container-12 {
+  margin: 0.2rem 0 0.8rem 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.clique-sur-offre-demploi .container-11 {
+  position: relative;
+  margin: 0 2.4rem 0.6rem 3.2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 86.2rem;
+  box-sizing: border-box;
+}
+.clique-sur-offre-demploi .ajouter-une-team {
+  position: relative;
+  margin: 0 51rem 3.8rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: rgba(0, 0, 0, 0.8);
+}
+.clique-sur-offre-demploi .vector-6 {
+  margin-right: 0.7rem;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.clique-sur-offre-demploi .activities {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 1rem;
+  color: #F8AE28;
+}
+.clique-sur-offre-demploi .group-31 {
+  margin: 0 0rem 2.7rem 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.clique-sur-offre-demploi .vector {
+  width: 1.1rem;
+  height: 1.1rem;
+}
+.clique-sur-offre-demploi .gridiconsstats-down {
+  margin: 0.2rem 1rem 0.2rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1.1rem;
+  height: 1.1rem;
+  box-sizing: border-box;
+}
+.clique-sur-offre-demploi .statistics {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 1rem;
+  color: #195544;
+}
+.clique-sur-offre-demploi .container-16 {
+  margin-left: 0rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.clique-sur-offre-demploi .container {
+  margin: 0.7rem 6.8rem 1.5rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.clique-sur-offre-demploi .rectangle-419 {
+  border-radius: 0.1rem;
+  background: rgba(255, 255, 255, 0.8);
+  margin-right: 0.9rem;
+  width: 0.1rem;
+  height: 4.9rem;
+}
+.clique-sur-offre-demploi .name {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.8);
+}
+.clique-sur-offre-demploi .search-bar {
+  margin: 1.5rem 0 1.2rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.clique-sur-offre-demploi .container-4 {
+  background: #39BAAA;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 1.3rem 0 1.7rem 2.4rem;
+  width: 69.3rem;
+  box-sizing: border-box;
+}
+.clique-sur-offre-demploi .container-3 {
+  position: relative;
+  margin: 0 7.4rem 2.1rem 1.4rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.clique-sur-offre-demploi .carbonsettings-check {
+  margin: 0.1rem 0.8rem 0 0;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.clique-sur-offre-demploi .rglages {
+  margin-bottom: 0.1rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 1rem;
+  color: #195544;
+}
+.clique-sur-offre-demploi .container-6 {
+  margin-bottom: 4.2rem;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.clique-sur-offre-demploi .code {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: rgba(0, 0, 0, 0.45);
+}
+.clique-sur-offre-demploi .container-9 {
+  border-radius: 0.6rem;
+  background: rgba(196, 196, 196, 0.15);
+  position: relative;
+  margin-top: 0.2rem;
+  padding: 1.8rem 3.4rem;
+  width: 51.7rem;
+  box-sizing: border-box;
+}
+.clique-sur-offre-demploi .container-18 {
+  position: relative;
+  margin: 0 1.3rem 0.6rem 1.3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 72.1rem;
+  box-sizing: border-box;
+}
+.clique-sur-offre-demploi .leader {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: rgba(0, 0, 0, 0.35);
+}
+.clique-sur-offre-demploi .container-10 {
+  border-radius: 0.6rem;
+  background: rgba(196, 196, 196, 0.15);
+  position: relative;
+  margin: 0 0 0.6rem 3.2rem;
+  padding: 1.5rem 3.5rem 1.4rem 3.5rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.clique-sur-offre-demploi .membre-1 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: rgba(0, 0, 0, 0.35);
+}
+.clique-sur-offre-demploi .container-1 {
+  border-radius: 0.6rem;
+  background: rgba(196, 196, 196, 0.15);
+  position: relative;
+  margin: 0 0 0.6rem 3.4rem;
+  padding: 1.3rem 3.4rem 1.5rem 3.4rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.clique-sur-offre-demploi .membre-2 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: rgba(0, 0, 0, 0.35);
+}
+.clique-sur-offre-demploi .container-7 {
+  border-radius: 0.6rem;
+  background: rgba(196, 196, 196, 0.15);
+  position: relative;
+  margin: 0 0 0.6rem 3.2rem;
+  padding: 1.5rem 3.3rem 1.4rem 3.3rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.clique-sur-offre-demploi .score {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: rgba(0, 0, 0, 0.35);
+}
+.clique-sur-offre-demploi .container-17 {
+  border-radius: 0.6rem;
+  background: rgba(196, 196, 196, 0.15);
+  position: relative;
+  margin: 0 0 4.8rem 3.2rem;
+  padding: 1.4rem 3.4rem 1.5rem 3.4rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.clique-sur-offre-demploi .system-uiconsexit-right {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.clique-sur-offre-demploi .group-33 {
+  margin: 0 0.1rem 0rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1.5rem;
+  height: 1.5rem;
+  box-sizing: border-box;
+}
+.clique-sur-offre-demploi .se-dconnecter {
+  margin-top: 0rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 1rem;
+  color: #195544;
+}
+.clique-sur-offre-demploi .container-14 {
+  margin: 1.8rem 0 0.9rem 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.clique-sur-offre-demploi .partager {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 1.5rem;
+  color: #000000;
+}
+.clique-sur-offre-demploi .container-13 {
+  border-radius: 0.6rem;
+  background: #39BAAA;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1.1rem 0 0.8rem 0.1rem;
+  width: 16.4rem;
+  box-sizing: border-box;
+}
+.clique-sur-offre-demploi .container-15 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 81.9rem;
+  box-sizing: border-box;
+}
+.clique-sur-offre-demploi {
+  border-radius: 2.1rem;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2.4rem 1.4rem 5.1rem 1.4rem;
+  width: 94.5rem;
+  box-sizing: border-box;
+}

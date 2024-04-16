@@ -1,0 +1,890 @@
+.challenges-4 .code-quest-arena {
+  margin: 0.5rem 1.6rem 0.5rem 0;
+  width: 30rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.8rem;
+  color: var(--color-2, #39BAAA);
+}
+.code-quest-arena-sub8 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.8rem;
+  line-height: 1.333;
+  background: linear-gradient(#ABDCD8, #ABDCD8), linear-gradient(#39BAAA, #39BAAA);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.code-quest-arena {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.8rem;
+  line-height: 1.333;
+  background: linear-gradient(#ABDCD8, #ABDCD8), linear-gradient(#39BAAA, #39BAAA);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.challenges-4 .home {
+  position: relative;
+  margin-right: 1.3rem;
+  width: 8.3rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.challenges-4 .about-us {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.challenges-4 .events {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.challenges-4 .challenges-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.challenges-4 .container-17 {
+  margin: 0.9rem 0 0.8rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 43.4rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.challenges-4 .arena {
+  position: relative;
+  margin: 0.9rem 0 0.8rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.challenges-4 .vector {
+  width: 2.6rem;
+  height: 2.6rem;
+}
+.challenges-4 .container-4 {
+  border-radius: 2.1rem;
+  background: #39BAAA;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.8rem 0.8rem 0.9rem 0.9rem;
+  width: 4.3rem;
+  height: 4.3rem;
+  box-sizing: border-box;
+}
+.challenges-4 .challenges-2 {
+  position: absolute;
+  right: 38.8rem;
+  bottom: 0.8rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.challenges-4 .events-1 {
+  position: absolute;
+  right: 53.5rem;
+  bottom: 0.8rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.challenges-4 .about-us-1 {
+  position: absolute;
+  left: 41.2rem;
+  bottom: 0.8rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.challenges-4 .home-1 {
+  position: absolute;
+  left: 31.6rem;
+  bottom: 0.8rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.challenges-4 .arena-1 {
+  position: absolute;
+  right: 28.7rem;
+  bottom: 0.8rem;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.challenges-4 .container {
+  position: relative;
+  margin: 0 0 2rem 1.4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 113.8rem;
+  box-sizing: border-box;
+}
+.challenges-4 .rectangle-16 {
+  box-shadow: inset 0rem 0.3rem 0.3rem 0rem rgba(0, 0, 0, 0.25);
+  border-radius: 1.3rem;
+  background: #ABDCD8;
+  width: 113.9rem;
+  height: 0.3rem;
+}
+.challenges-4 .container-9 {
+  box-shadow: 0rem 0.3rem 0.3rem 0rem rgba(0, 0, 0, 0.25);
+  border-radius: 1.3rem;
+  border: 0.1rem solid #000000;
+  background: #ABDCD8;
+  position: relative;
+  margin: 0 0 0.8rem 1.3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 113.9rem;
+  height: 0.3rem;
+  box-sizing: border-box;
+}
+.challenges-4 .image-20 {
+  box-shadow: inset 0rem 0.3rem 0.3rem 0rem rgba(0, 0, 0, 0.25);
+  border-radius: 0.6rem;
+  border: 0.1rem solid #ABDCD8;
+  background: url('assets/images/Image20.png') 50% / cover no-repeat;
+  margin: 0 2.4rem 2.8rem 2.9rem;
+  width: 109.9rem;
+  height: 43.5rem;
+}
+.challenges-4 .description {
+  margin-right: 1.4rem;
+  width: 21.2rem;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.challenges-4 .participants {
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.challenges-4 .ressources {
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.challenges-4 .contact-organizers {
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.challenges-4 .container-16 {
+  margin: 0 0.5rem 3.5rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: center;
+  width: 93.6rem;
+  box-sizing: border-box;
+}
+.h-1-nasa-space-apps-challengeh-1 {
+  font-family: 'IBM Plex Sans';
+  font-weight: 600;
+  font-size: 3rem;
+  line-height: 1.333;
+  color: var(--color-2, #39BAAA);
+}
+.challenges-4 .h-1-nasa-space-apps-challengeh-1 {
+  margin: 0 0 2.1rem 4.3rem;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Sans';
+  font-weight: 600;
+  font-size: 3rem;
+  color: #FFFFFF;
+}
+.h-1-nasa-space-apps-challengeh-1-sub3 {
+  font-family: 'IBM Plex Sans';
+  font-weight: 600;
+  font-size: 3rem;
+  line-height: 1.333;
+  color: var(--color-2, #39BAAA);
+}
+.h-1-nasa-space-apps-challengeh-1-sub2 {
+  font-family: 'IBM Plex Sans';
+  font-weight: 600;
+  font-size: 3rem;
+  line-height: 1.333;
+}
+.challenges-4 .p-the-nasa-international-space-apps-challenge-is-ahackathon-for-coders-scientists-designers-storytellers-makers-technologists-and-innovators-around-the-world-to-come-together-and-use-open-data-from-nasa-and-its-space-agency-partners-to-create-solutions-to-challenges-we-face-on-earth-and-in-spacep {
+  margin-right: 9.8rem;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.p-the-nasa-international-space-apps-challenge-is-ahackathon-for-coders-scientists-designers-storytellers-makers-technologists-and-innovators-around-the-world-to-come-together-and-use-open-data-from-nasa-and-its-space-agency-partners-to-create-solutions-to-challenges-we-face-on-earth-and-in-spacep-sub31 {
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  line-height: 1.333;
+  color: var(--color-2, #39BAAA);
+}
+.p-the-nasa-international-space-apps-challenge-is-ahackathon-for-coders-scientists-designers-storytellers-makers-technologists-and-innovators-around-the-world-to-come-together-and-use-open-data-from-nasa-and-its-space-agency-partners-to-create-solutions-to-challenges-we-face-on-earth-and-in-spacep {
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  line-height: 1.333;
+  color: var(--color-2, #39BAAA);
+}
+.challenges-4 .rectangle-293 {
+  background: var(--color-3, #ABDCD8);
+  margin: 1rem 8.3rem 1.1rem 0;
+  width: 0.3rem;
+  height: 20.9rem;
+}
+.organized-by-nasa-jun-20-jun-25 {
+  font-family: 'IBM Plex Sans';
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 1.333;
+  color: #38D9BA;
+}
+.challenges-4 .organized-by-nasa-jun-20-jun-25 {
+  margin-bottom: 0.4rem;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Sans';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.organized-by-nasa-jun-20-jun-25-sub19 {
+  font-family: 'IBM Plex Sans';
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 1.333;
+  color: #38D9BA;
+}
+.organized-by-nasa-jun-20-jun-25-sub18 {
+  font-family: 'IBM Plex Sans';
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 1.333;
+}
+.challenges-4 .rectangle-49 {
+  border-radius: 0.1rem;
+  margin: 0.1rem 1.4rem 0rem 0;
+  width: 2rem;
+  height: 1.3rem;
+}
+.challenges-4 .rectangle-227 {
+  background: var(--color-3, #ABDCD8);
+  position: absolute;
+  left: 50%;
+  bottom: 0rem;
+  translate: -50% 0;
+  width: 4.4rem;
+  height: 1.4rem;
+}
+.challenges-4 .game-dev {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Sans';
+  font-weight: 400;
+  font-size: 0.8rem;
+  color: #011728;
+}
+.challenges-4 .group-1000001007 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 0.7rem 0.4rem 0.4rem;
+  box-sizing: border-box;
+}
+.challenges-4 .container-2 {
+  margin-top: 0.1rem;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.challenges-4 .ai {
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Sans';
+  font-weight: 400;
+  font-size: 0.8rem;
+  color: #011728;
+}
+.challenges-4 .group-1000001028 {
+  background: #ABDCD8;
+  position: relative;
+  margin-bottom: 0.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.1rem 0.7rem 0.3rem 0.3rem;
+  box-sizing: border-box;
+}
+.challenges-4 .container-10 {
+  margin: 0 0.8rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 11.2rem;
+  box-sizing: border-box;
+}
+.challenges-4 .group-1000001024 {
+  position: relative;
+  margin: 0 3.4rem 0.1rem 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.challenges-4 .rectangle-2272 {
+  background: var(--color-3, #ABDCD8);
+  position: absolute;
+  left: 50%;
+  bottom: 0rem;
+  translate: -50% 0;
+  width: 3rem;
+  height: 1.4rem;
+}
+.challenges-4 .web {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Sans';
+  font-weight: 400;
+  font-size: 0.8rem;
+  color: #011728;
+}
+.challenges-4 .group-1000001027 {
+  position: relative;
+  margin-top: 6.7rem;
+  padding: 0 0.3rem 0.4rem 0.3rem;
+  width: 3rem;
+  box-sizing: border-box;
+}
+.challenges-4 .rectangle-2271 {
+  background: var(--color-3, #ABDCD8);
+  position: absolute;
+  left: 0rem;
+  right: 0rem;
+  bottom: 0rem;
+  height: 1.4rem;
+}
+.challenges-4 .mobile {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Sans';
+  font-weight: 400;
+  font-size: 0.8rem;
+  color: #011728;
+}
+.challenges-4 .group-1000001010 {
+  position: absolute;
+  right: 3.9rem;
+  bottom: 0.1rem;
+  padding: 0 0.4rem 0.4rem 0.4rem;
+  width: 4.1rem;
+  box-sizing: border-box;
+}
+.challenges-4 .container-15 {
+  position: relative;
+  margin: 0 1.6rem 3.6rem 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.challenges-4 .join-as {
+  margin-bottom: 2.3rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Sans';
+  font-weight: 400;
+  font-size: 1.6rem;
+  color: #FFFFFF;
+}
+.challenges-4 .rectangle-3 {
+  border-radius: 0.6rem;
+  position: absolute;
+  left: 50%;
+  top: 0rem;
+  translate: -50% 0;
+  width: 10.1rem;
+  height: 4.7rem;
+}
+.challenges-4 .solo {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2rem;
+  color: #FFFFFF;
+}
+.challenges-4 .group-1000001025 {
+  border-radius: 0.6rem;
+  position: relative;
+  margin-right: 2.9rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1.2rem 0 1.1rem 0.1rem;
+  width: 10.1rem;
+  box-sizing: border-box;
+}
+.challenges-4 .rectangle-31 {
+  border-radius: 0.6rem;
+  position: absolute;
+  left: 50%;
+  top: 0rem;
+  translate: -50% 0;
+  width: 10.1rem;
+  height: 4.7rem;
+}
+.challenges-4 .team {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 2rem;
+  color: #FFFFFF;
+}
+.challenges-4 .group-1000001026 {
+  border-radius: 0.6rem;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1.2rem 0 1.1rem 0.1rem;
+  width: 10.1rem;
+  box-sizing: border-box;
+}
+.challenges-4 .container-3 {
+  display: flex;
+  flex-direction: row;
+  width: 23rem;
+  box-sizing: border-box;
+}
+.challenges-4 .group-1000001029 {
+  margin: 0.2rem 0 1.9rem 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.challenges-4 .container-7 {
+  margin: 0 2.9rem 10.6rem 2.9rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.challenges-4 .vector-1 {
+  width: 2.6rem;
+  height: 2.6rem;
+}
+.challenges-4 .material-symbolscircle-outline {
+  margin-bottom: 1.9rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 2.6rem;
+  height: 2.6rem;
+  box-sizing: border-box;
+}
+.challenges-4 .rectangle-243 {
+  box-shadow: 0rem 0.3rem 0.3rem 0rem rgba(0, 0, 0, 0.25);
+  border-radius: 1.3rem;
+  border: 0.1rem solid #000000;
+  background: #ABDCD8;
+  margin: 0 1rem;
+  width: 0.3rem;
+  height: 26.9rem;
+}
+.challenges-4 .container-1 {
+  margin: 0rem 2.8rem 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 2.6rem;
+  box-sizing: border-box;
+}
+.challenges-4 .h-2-summaryh-2 {
+  margin: 0 1.8rem 4rem 1.8rem;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.h-2-summaryh-2-sub30 {
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  line-height: 1.333;
+  color: #38D9BA;
+}
+.h-2-summaryh-2 {
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  line-height: 1.333;
+  color: #38D9BA;
+}
+.challenges-4 .p-eclipses-are-awe-inspiring-celestial-events-that-drastically-change-the-appearance-of-one-of-the-two-biggest-objects-we-see-in-our-sky-our-sun-and-moon-on-earth-people-can-experience-eclipses-when-earth-the-moon-and-the-sun-align-your-challenge-is-to-create-agame-activity-or-story-for-young-learners-that-explains-the-mechanics-of-eclipses-including-eclipse-seasons-how-and-why-eclipses-occur-and-why-only-some-people-on-earth-can-see-an-eclipse-at-agiven-timep {
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.p-eclipses-are-awe-inspiring-celestial-events-that-drastically-change-the-appearance-of-one-of-the-two-biggest-objects-we-see-in-our-sky-our-sun-and-moon-on-earth-people-can-experience-eclipses-when-earth-the-moon-and-the-sun-align-your-challenge-is-to-create-agame-activity-or-story-for-young-learners-that-explains-the-mechanics-of-eclipses-including-eclipse-seasons-how-and-why-eclipses-occur-and-why-only-some-people-on-earth-can-see-an-eclipse-at-agiven-timep-sub31 {
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  line-height: 1.333;
+  color: var(--color-2, #39BAAA);
+}
+.p-eclipses-are-awe-inspiring-celestial-events-that-drastically-change-the-appearance-of-one-of-the-two-biggest-objects-we-see-in-our-sky-our-sun-and-moon-on-earth-people-can-experience-eclipses-when-earth-the-moon-and-the-sun-align-your-challenge-is-to-create-agame-activity-or-story-for-young-learners-that-explains-the-mechanics-of-eclipses-including-eclipse-seasons-how-and-why-eclipses-occur-and-why-only-some-people-on-earth-can-see-an-eclipse-at-agiven-timep {
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  line-height: 1.333;
+  color: var(--color-2, #39BAAA);
+}
+.challenges-4 .group-1000001030 {
+  margin-bottom: 1.6rem;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.challenges-4 .container-11 {
+  margin-bottom: 1.1rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.challenges-4 .vector-2 {
+  width: 2.6rem;
+  height: 2.6rem;
+}
+.challenges-4 .material-symbolscircle-outline-1 {
+  margin-bottom: 2.8rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 2.6rem;
+  height: 2.6rem;
+  box-sizing: border-box;
+}
+.challenges-4 .rectangle-294 {
+  box-shadow: 0rem 0.3rem 0.3rem 0rem rgba(0, 0, 0, 0.25);
+  border-radius: 1.3rem;
+  border: 0.1rem solid #000000;
+  background: #ABDCD8;
+  margin: 0 1.1rem 0 1.2rem;
+  width: 0.3rem;
+  height: 95.1rem;
+}
+.challenges-4 .container-13 {
+  margin: 0.8rem 1.9rem 0rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 2.6rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.h-2-backgroundh-2-sub30 {
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  line-height: 1.333;
+  color: #38D9BA;
+}
+.h-2-backgroundh-2 {
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  line-height: 1.333;
+  color: #38D9BA;
+}
+.challenges-4 .h-2-backgroundh-2 {
+  margin: 0 2.3rem 3.6rem 2.3rem;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.challenges-4 .p-eclipses-arent-just-beautiful-theyre-great-for-science-nasa-scientists-study-eclipses-to-make-new-discoveries-about-the-sun-earth-and-our-space-environment-for-over-acentury-solar-eclipses-have-helped-scientists-decipher-the-suns-structure-and-explosive-events-find-evidence-for-the-theory-of-general-relativity-discover-anew-element-and-much-more-pp-there-are-four-types-of-solar-eclipsestotal-partial-hybrid-and-annular-and-three-types-of-lunar-eclipsestotal-partial-and-penumbral-an-eclipse-season-is-one-of-only-two-periods-during-each-year-when-the-sun-moon-and-earth-are-aligned-allowing-eclipses-to-occur-each-season-lasts-about-35-days-and-repeats-just-short-of-every-six-months-in-addition-to-inspiring-artists-and-musicians-eclipses-have-driven-numerous-scientific-discoveriespp-total-solar-eclipses-are-particularly-important-because-they-allow-scientists-to-see-apart-of-the-suns-atmosphere-known-as-the-corona-which-is-too-faint-to-see-except-when-the-bright-light-of-the-suns-surface-is-blocked-total-solar-eclipses-also-provide-an-opportunity-to-study-earths-atmosphere-under-uncommon-conditions-in-contrast-to-the-global-change-in-light-that-occurs-every-day-at-dusk-and-dawn-asolar-eclipse-changes-the-illumination-of-earth-and-its-atmosphere-under-acomparatively-small-region-of-the-moons-shadow-this-localized-blocking-of-solar-energy-is-useful-for-studying-the-suns-effects-on-our-atmosphere-especially-the-upper-atmosphere-where-the-suns-energy-creates-alayer-of-charged-particles-called-the-ionosphere-understanding-this-region-is-important-because-it-hosts-many-low-earth-orbiting-satellites-as-well-as-communications-signalssuch-as-radio-waves-and-the-signals-that-make-the-global-positioning-system-gps-work-and-changes-there-can-significantly-impact-our-technology-and-communication-systemsp {
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.p-eclipses-arent-just-beautiful-theyre-great-for-science-nasa-scientists-study-eclipses-to-make-new-discoveries-about-the-sun-earth-and-our-space-environment-for-over-acentury-solar-eclipses-have-helped-scientists-decipher-the-suns-structure-and-explosive-events-find-evidence-for-the-theory-of-general-relativity-discover-anew-element-and-much-more-pp-there-are-four-types-of-solar-eclipsestotal-partial-hybrid-and-annular-and-three-types-of-lunar-eclipsestotal-partial-and-penumbral-an-eclipse-season-is-one-of-only-two-periods-during-each-year-when-the-sun-moon-and-earth-are-aligned-allowing-eclipses-to-occur-each-season-lasts-about-35-days-and-repeats-just-short-of-every-six-months-in-addition-to-inspiring-artists-and-musicians-eclipses-have-driven-numerous-scientific-discoveriespp-total-solar-eclipses-are-particularly-important-because-they-allow-scientists-to-see-apart-of-the-suns-atmosphere-known-as-the-corona-which-is-too-faint-to-see-except-when-the-bright-light-of-the-suns-surface-is-blocked-total-solar-eclipses-also-provide-an-opportunity-to-study-earths-atmosphere-under-uncommon-conditions-in-contrast-to-the-global-change-in-light-that-occurs-every-day-at-dusk-and-dawn-asolar-eclipse-changes-the-illumination-of-earth-and-its-atmosphere-under-acomparatively-small-region-of-the-moons-shadow-this-localized-blocking-of-solar-energy-is-useful-for-studying-the-suns-effects-on-our-atmosphere-especially-the-upper-atmosphere-where-the-suns-energy-creates-alayer-of-charged-particles-called-the-ionosphere-understanding-this-region-is-important-because-it-hosts-many-low-earth-orbiting-satellites-as-well-as-communications-signalssuch-as-radio-waves-and-the-signals-that-make-the-global-positioning-system-gps-work-and-changes-there-can-significantly-impact-our-technology-and-communication-systemsp-sub31 {
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  line-height: 1.333;
+  color: var(--color-2, #39BAAA);
+}
+.p-eclipses-arent-just-beautiful-theyre-great-for-science-nasa-scientists-study-eclipses-to-make-new-discoveries-about-the-sun-earth-and-our-space-environment-for-over-acentury-solar-eclipses-have-helped-scientists-decipher-the-suns-structure-and-explosive-events-find-evidence-for-the-theory-of-general-relativity-discover-anew-element-and-much-more-pp-there-are-four-types-of-solar-eclipsestotal-partial-hybrid-and-annular-and-three-types-of-lunar-eclipsestotal-partial-and-penumbral-an-eclipse-season-is-one-of-only-two-periods-during-each-year-when-the-sun-moon-and-earth-are-aligned-allowing-eclipses-to-occur-each-season-lasts-about-35-days-and-repeats-just-short-of-every-six-months-in-addition-to-inspiring-artists-and-musicians-eclipses-have-driven-numerous-scientific-discoveriespp-total-solar-eclipses-are-particularly-important-because-they-allow-scientists-to-see-apart-of-the-suns-atmosphere-known-as-the-corona-which-is-too-faint-to-see-except-when-the-bright-light-of-the-suns-surface-is-blocked-total-solar-eclipses-also-provide-an-opportunity-to-study-earths-atmosphere-under-uncommon-conditions-in-contrast-to-the-global-change-in-light-that-occurs-every-day-at-dusk-and-dawn-asolar-eclipse-changes-the-illumination-of-earth-and-its-atmosphere-under-acomparatively-small-region-of-the-moons-shadow-this-localized-blocking-of-solar-energy-is-useful-for-studying-the-suns-effects-on-our-atmosphere-especially-the-upper-atmosphere-where-the-suns-energy-creates-alayer-of-charged-particles-called-the-ionosphere-understanding-this-region-is-important-because-it-hosts-many-low-earth-orbiting-satellites-as-well-as-communications-signalssuch-as-radio-waves-and-the-signals-that-make-the-global-positioning-system-gps-work-and-changes-there-can-significantly-impact-our-technology-and-communication-systemsp-sub32 {
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  line-height: 1.333;
+  color: #38D9BA;
+}
+.p-eclipses-arent-just-beautiful-theyre-great-for-science-nasa-scientists-study-eclipses-to-make-new-discoveries-about-the-sun-earth-and-our-space-environment-for-over-acentury-solar-eclipses-have-helped-scientists-decipher-the-suns-structure-and-explosive-events-find-evidence-for-the-theory-of-general-relativity-discover-anew-element-and-much-more-pp-there-are-four-types-of-solar-eclipsestotal-partial-hybrid-and-annular-and-three-types-of-lunar-eclipsestotal-partial-and-penumbral-an-eclipse-season-is-one-of-only-two-periods-during-each-year-when-the-sun-moon-and-earth-are-aligned-allowing-eclipses-to-occur-each-season-lasts-about-35-days-and-repeats-just-short-of-every-six-months-in-addition-to-inspiring-artists-and-musicians-eclipses-have-driven-numerous-scientific-discoveriespp-total-solar-eclipses-are-particularly-important-because-they-allow-scientists-to-see-apart-of-the-suns-atmosphere-known-as-the-corona-which-is-too-faint-to-see-except-when-the-bright-light-of-the-suns-surface-is-blocked-total-solar-eclipses-also-provide-an-opportunity-to-study-earths-atmosphere-under-uncommon-conditions-in-contrast-to-the-global-change-in-light-that-occurs-every-day-at-dusk-and-dawn-asolar-eclipse-changes-the-illumination-of-earth-and-its-atmosphere-under-acomparatively-small-region-of-the-moons-shadow-this-localized-blocking-of-solar-energy-is-useful-for-studying-the-suns-effects-on-our-atmosphere-especially-the-upper-atmosphere-where-the-suns-energy-creates-alayer-of-charged-particles-called-the-ionosphere-understanding-this-region-is-important-because-it-hosts-many-low-earth-orbiting-satellites-as-well-as-communications-signalssuch-as-radio-waves-and-the-signals-that-make-the-global-positioning-system-gps-work-and-changes-there-can-significantly-impact-our-technology-and-communication-systemsp {
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  line-height: 1.333;
+  color: var(--color-2, #39BAAA);
+}
+.challenges-4 .group-1000001031 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.challenges-4 .container-12 {
+  margin: 0 0.3rem 1.7rem 0.3rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.challenges-4 .vector-3 {
+  width: 2.6rem;
+  height: 2.6rem;
+}
+.challenges-4 .material-symbolscircle-outline-2 {
+  margin-bottom: 1.8rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 2.6rem;
+  height: 2.6rem;
+  box-sizing: border-box;
+}
+.challenges-4 .rectangle-244 {
+  box-shadow: 0rem 0.3rem 0.3rem 0rem rgba(0, 0, 0, 0.25);
+  border-radius: 1.3rem;
+  border: 0.1rem solid #000000;
+  background: #ABDCD8;
+  margin: 0 1rem;
+  align-self: flex-start;
+  width: 0.3rem;
+  height: 37.1rem;
+}
+.challenges-4 .container-8 {
+  margin-right: 1.8rem;
+  display: flex;
+  flex-direction: column;
+  width: 2.6rem;
+  box-sizing: border-box;
+}
+.h-2-objectivesh-2 {
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  line-height: 1.333;
+  color: #38D9BA;
+}
+.challenges-4 .h-2-objectivesh-2 {
+  margin: 0 1.8rem 1rem 1.8rem;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.h-2-objectivesh-2-sub30 {
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  line-height: 1.333;
+  color: #38D9BA;
+}
+.challenges-4 .p-your-challenge-is-to-create-an-activity-game-or-storythrough-words-art-video-graphic-novel-or-other-artistic-means-that-explains-the-mechanics-of-eclipses-think-about-how-your-solution-will-answer-the-following-questions-how-do-eclipses-occur-why-do-only-some-people-on-earth-see-an-eclipse-at-agiven-time-what-causes-the-sun-moon-and-earth-to-align-how-often-do-eclipses-occur-how-do-scientists-know-when-and-where-eclipses-will-occur-what-is-the-difference-between-alunar-and-solar-eclipse-what-is-an-eclipse-season-and-why-do-they-occur-approximately-every-six-monthsor-twice-ayearp {
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.p-your-challenge-is-to-create-an-activity-game-or-storythrough-words-art-video-graphic-novel-or-other-artistic-means-that-explains-the-mechanics-of-eclipses-think-about-how-your-solution-will-answer-the-following-questions-how-do-eclipses-occur-why-do-only-some-people-on-earth-see-an-eclipse-at-agiven-time-what-causes-the-sun-moon-and-earth-to-align-how-often-do-eclipses-occur-how-do-scientists-know-when-and-where-eclipses-will-occur-what-is-the-difference-between-alunar-and-solar-eclipse-what-is-an-eclipse-season-and-why-do-they-occur-approximately-every-six-monthsor-twice-ayearp-sub31 {
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  line-height: 1.333;
+  color: var(--color-2, #39BAAA);
+}
+.p-your-challenge-is-to-create-an-activity-game-or-storythrough-words-art-video-graphic-novel-or-other-artistic-means-that-explains-the-mechanics-of-eclipses-think-about-how-your-solution-will-answer-the-following-questions-how-do-eclipses-occur-why-do-only-some-people-on-earth-see-an-eclipse-at-agiven-time-what-causes-the-sun-moon-and-earth-to-align-how-often-do-eclipses-occur-how-do-scientists-know-when-and-where-eclipses-will-occur-what-is-the-difference-between-alunar-and-solar-eclipse-what-is-an-eclipse-season-and-why-do-they-occur-approximately-every-six-monthsor-twice-ayearp {
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  line-height: 1.333;
+  color: var(--color-2, #39BAAA);
+}
+.challenges-4 .group-1000001032 {
+  margin: 0.4rem 0 2.6rem 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.challenges-4 .container-14 {
+  margin: 0 0.5rem 1rem 0.5rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.challenges-4 .vector-4 {
+  width: 2.6rem;
+  height: 2.6rem;
+}
+.challenges-4 .material-symbolscircle-outline-3 {
+  margin-bottom: 1.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 2.6rem;
+  height: 2.6rem;
+  box-sizing: border-box;
+}
+.challenges-4 .rectangle-295 {
+  box-shadow: 0rem 0.3rem 0.3rem 0rem rgba(0, 0, 0, 0.25);
+  border-radius: 1.3rem;
+  border: 0.1rem solid #000000;
+  background: #ABDCD8;
+  margin: 0 1rem;
+  align-self: flex-start;
+  width: 0.3rem;
+  height: 38.9rem;
+}
+.challenges-4 .container-5 {
+  margin: 0.1rem 1.8rem 0 0;
+  display: flex;
+  flex-direction: column;
+  width: 2.6rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.challenges-4 .h-2-potential-considerationsh-2 {
+  margin-bottom: 1.9rem;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.h-2-potential-considerationsh-2-sub30 {
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  line-height: 1.333;
+  color: #38D9BA;
+}
+.h-2-potential-considerationsh-2 {
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  line-height: 1.333;
+  color: #38D9BA;
+}
+.challenges-4 .p-you-maybut-are-not-required-to-consider-the-following-understanding-the-different-alignment-of-the-earth-sun-and-moon-is-crucial-to-understanding-the-difference-between-alunar-and-solar-eclipse-perspective-specifically-how-far-away-from-each-other-objects-are-is-important-to-understand-eclipses-in-general-and-the-types-of-eclipses-that-occur-perspective-plays-arole-in-whether-one-sees-apartial-or-total-eclipse-when-explaining-the-geometry-of-eclipses-it-is-important-to-remember-and-consider-that-earths-axis-and-the-moons-orbit-are-both-tilted-which-changes-the-placement-of-the-moons-shadow-for-data-and-resources-related-to-this-challenge-refer-to-the-resources-tab-at-the-top-of-the-pagep {
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  color: #FFFFFF;
+}
+.p-you-maybut-are-not-required-to-consider-the-following-understanding-the-different-alignment-of-the-earth-sun-and-moon-is-crucial-to-understanding-the-difference-between-alunar-and-solar-eclipse-perspective-specifically-how-far-away-from-each-other-objects-are-is-important-to-understand-eclipses-in-general-and-the-types-of-eclipses-that-occur-perspective-plays-arole-in-whether-one-sees-apartial-or-total-eclipse-when-explaining-the-geometry-of-eclipses-it-is-important-to-remember-and-consider-that-earths-axis-and-the-moons-orbit-are-both-tilted-which-changes-the-placement-of-the-moons-shadow-for-data-and-resources-related-to-this-challenge-refer-to-the-resources-tab-at-the-top-of-the-pagep-sub31 {
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  line-height: 1.333;
+  color: var(--color-2, #39BAAA);
+}
+.p-you-maybut-are-not-required-to-consider-the-following-understanding-the-different-alignment-of-the-earth-sun-and-moon-is-crucial-to-understanding-the-difference-between-alunar-and-solar-eclipse-perspective-specifically-how-far-away-from-each-other-objects-are-is-important-to-understand-eclipses-in-general-and-the-types-of-eclipses-that-occur-perspective-plays-arole-in-whether-one-sees-apartial-or-total-eclipse-when-explaining-the-geometry-of-eclipses-it-is-important-to-remember-and-consider-that-earths-axis-and-the-moons-orbit-are-both-tilted-which-changes-the-placement-of-the-moons-shadow-for-data-and-resources-related-to-this-challenge-refer-to-the-resources-tab-at-the-top-of-the-pagep {
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 2.2rem;
+  line-height: 1.333;
+  color: var(--color-2, #39BAAA);
+}
+.challenges-4 .group-1000001033 {
+  margin-bottom: 0.6rem;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.challenges-4 .container-6 {
+  margin: 0 0.5rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.challenges {
+  background: #011728;
+  display: flex;
+  flex-direction: column;
+  padding: 1.9rem 2.6rem 13rem 2.2rem;
+  width: 120rem;
+  box-sizing: border-box;
+}
